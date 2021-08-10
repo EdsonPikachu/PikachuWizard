@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>[COLOR orange][B]Filmes Ação[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
 <title>[COLOR orange][B]Bet[/B][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png</thumbnail>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/3063648/master.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=65e18bd3-a5d3-445c-8d98-0ed0d9d80b89&deviceVersion=89.0.4389.114&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&deviceType=web&deviceMake=Chrome&sid=3e9a854e-c53f-11eb-be80-0242ac110002&advertisingId=&deviceLat=-23.5257&deviceLon=-46.8288&deviceDNT=0&deviceModel=web&userId=&appName=web</link>
