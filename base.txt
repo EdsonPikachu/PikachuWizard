@@ -1,7 +1,7 @@
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 <channels><channel>
-<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]TV AO VIVO[/COLOR][/B]</name>
-<genre>[COLOR grey]----------------------------------------------------------------------------------------------------------------------------------------------------[/COLOR]</genre>
+<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]TV AO VIVO|[/COLOR][/B]</name>
+<genre>[COLOR grey]-------------------------------------------------------------------------------------------------------------------------------|[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/teste.txt</externallink>
 <fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
