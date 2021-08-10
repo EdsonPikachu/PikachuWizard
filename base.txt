@@ -1,41 +1,9 @@
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
-<channels>
-<channel>
-<name>[B][COLOR red]> [COLOR red] FAÇA SUA DOAÇÃO E AJUDE A MANTER O CANAL SEMPRE ATUALIZADO E ATIVO![/COLOR][/B]</name>
-<thumbnail>https://ia802808.us.archive.org/30/items/bemvindo_20200227/ENTRAR.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia803200.us.archive.org/16/items/banner_202010/banner.png</fanart>
-<info>[COLOR red] - SEJA BEM VINDOS ADDON BXL - [/COLOR]</info>
-</channel>
-</channels>
-😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
-<channels>
-<channel>
-<name>[B][COLOR red]> [COLOR blue]CURTA NOSSA PAGINA NO FACEBOOK[/COLOR][/B]</name>
-<thumbnail>https://ia802808.us.archive.org/30/items/bemvindo_20200227/ENTRAR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CATEGORIAS2</externallink>
-<fanart>https://ia803201.us.archive.org/16/items/categoria_202010/categoria.jpg</fanart>
-<info>[COLOR red]|[/COLOR] - BXL PARA TODA FAMILIA   [COLOR blue]|[/COLOR]</info> 
-</channel>
-</channels> 
-😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
-<channels>
-<channel>
-<name>[B][COLOR red]> SEJA BEM-VINDOS [COLOR blue] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</name>
-<thumbnail>https://ia802808.us.archive.org/30/items/bemvindo_20200227/ENTRAR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CATEGORIAS2</externallink>
-<fanart>https://ia803201.us.archive.org/16/items/categoria_202010/categoria.jpg</fanart>
-<info>[COLOR red]|[/COLOR] - BXL PARA TODA FAMILIA   [COLOR blue]|[/COLOR]</info> 
-</channel>
-</channels> 
-😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
-<channels>
-<channel>
-<name>[B][COLOR red]> [COLOR blue] ENTRE AQUI [COLOR red][/COLOR][/B]</name>
-<thumbnail>https://ia802808.us.archive.org/30/items/bemvindo_20200227/ENTRAR.png</thumbnail>
+<channels><channel>
+<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]TV AO VIVO[COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/teste.txt</externallink>
-<fanart>https://ia803201.us.archive.org/16/items/categoria_202010/categoria.jpg</fanart>
-<info>[COLOR red]|[/COLOR] - BXL PARA TODA FAMILIA   [COLOR blue]|[/COLOR]</info> 
-</channel>
-</channels> 
+<fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
+<info>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen] PARA TODA FAMILIA   [/COLOR][/B]</info> 
+</channel></channels> 
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
