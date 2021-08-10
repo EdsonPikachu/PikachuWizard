@@ -1,258 +1,258 @@
 [B][I][COLOR goldenrod] ●
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Pluto Tv Guia De Canais[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Pluto Tv Guia De Canais[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Cine Sucessos[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Cine Sucessos[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Cine Clássicos[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Cine Clássicos[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Cine Comédia[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Cine Comédia[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Cine Drama[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Cine Drama[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=ES&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=41.1185&deviceLon=1.2540&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=ES&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Cine Terror[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Cine Terror[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Cine Romance[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Cine Romance[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Cine Família[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Cine Família[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Filmes Ação[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Filmes Ação[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Filmes Suspense[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Filmes Suspense[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Filmes Nacionais[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Filmes Nacionais[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Star Trek[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Star Trek[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Retrô[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Retrô[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Mistérios[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Mistérios[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Comédia[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Comédia[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Séries[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Séries[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Jeannie é um Gênio[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Jeannie é um Gênio[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]BET Being Mary Jane[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]BET Being Mary Jane[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Você é o único?[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Você é o único?[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Bet[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Bet[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Investigação[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Investigação[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Nosey Escândalos[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Nosey Escândalos[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Nosey Casos[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Nosey Casos[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f9b096236af340008da3779/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Vida Real[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Vida Real[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Natureza[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Natureza[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Tokusato[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Tokusato[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Anime[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Anime[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Naruto[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Naruto[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]South Park[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]South Park[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Junior[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Junior[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Nick[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Nick[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]A vida moderna de Rocko[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]A vida moderna de Rocko[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Kids[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Kids[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Nick Clássico[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Nick Clássico[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]O Reino Infantil[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]O Reino Infantil[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Turma da Mônica[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Turma da Mônica[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]As  Pistas de Blue[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]As  Pistas de Blue[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
@@ -260,91 +260,91 @@
 
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Babyfirst[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Babyfirst[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]MTV[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]MTV[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Porta dos Fundos[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Porta dos Fundos[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]FailArmy[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]FailArmy[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]People are Awesome[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]People are Awesome[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]The Pet Collective[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]The Pet Collective[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Fashionbox[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Fashionbox[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]Loupe[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]Loupe[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/600b248969c6580007e91a2d/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]MTV Biggest Pop[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]MTV Biggest Pop[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Paisagens por Stingray[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Paisagens por Stingray[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]V Shows por Stingray[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]V Shows por Stingray[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]TV Karaokê por Stingray[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]TV Karaokê por Stingray[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[B][I][COLOR goldenrod] ●Picachu 😎[COLOR forestgreen]MasterChef[/B][/I][/COLOR]</title>
+<title>[B][I][COLOR goldenrod]●Picachu😎  [COLOR forestgreen]MasterChef[/B][/I][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
