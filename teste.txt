@@ -6,10 +6,10 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]Filmes Ação[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png</thumbnail>
+<title>[COLOR orange][B]TV Cine Clássicos[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
@@ -34,10 +34,10 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]Filmes Suspense[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png</thumbnail>
+<title>[COLOR orange][B]Cine Romance[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
@@ -48,45 +48,24 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]Cine Romance[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png</thumbnail>
+<title>[COLOR orange][B]Filmes Ação[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[COLOR orange][B]TV Investigação[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png</thumbnail>
+<title>[COLOR orange][B]Filmes Suspense[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
-
-<item>
-<title>[COLOR orange][B]Nosey Escândalos[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png</thumbnail>
-<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
-</item>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
-<title>[COLOR orange][B]TV Vida Real[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png</thumbnail>
+<title>[COLOR orange][B]TV Filmes Nacionais[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
-</item>
-
-<item>
-<title>[COLOR orange][B]TV Retrô[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png</thumbnail>
-<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
-</item>
-
-<item>
-<title>[COLOR orange][B]TV Natureza[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png</thumbnail>
-<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
@@ -97,10 +76,52 @@
 </item>
 
 <item>
+<title>[COLOR orange][B]TV Retrô[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
 <title>[COLOR orange][B]TV Séries[/B][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
+<title>[COLOR orange][B]TV Investigação[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
+<title>[COLOR orange][B]Nosey Escândalos[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
+<title>[COLOR orange][B]Nosey Casos[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f9b096236af340008da3779/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
+<title>[COLOR orange][B]TV Vida Real[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
+<title>[COLOR orange][B]TV Natureza[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
@@ -160,6 +181,21 @@
 </item>
 
 <item>
+<title>[COLOR orange][B]Turma da Mônica[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
+<title>[COLOR orange][B]As  Pistas de Blue[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+
+<item>
 <title>[COLOR orange][B]Babyfirst[/B][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
@@ -209,45 +245,10 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]TV Filmes Nacionais[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png</thumbnail>
-<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
-</item>
-
-<item>
 <title>[COLOR orange][B]Você é o único?[/B][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
 <link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
-</item>
-
-<item>
-<title>[COLOR orange][B]Turma da Mônica[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png</thumbnail>
-<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
-</item>
-
-<item>
-<title>[COLOR orange][B]As  Pistas de Blue[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png</thumbnail>
-<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
-</item>
-
-<item>
-<title>[COLOR orange][B]Nosey Casos[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5f9b096236af340008da3779/colorLogoPNG.png</thumbnail>
-<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
-</item>
-
-<item>
-<title>[COLOR orange][B]TV Cine Clássicos[/B][/COLOR]</title>
-<thumbnail>https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png</thumbnail>
-<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
