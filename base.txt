@@ -1,18 +1,25 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<channels></channels><channel><item><name> [B][I][COLOR=forestgreen]<<  [/COLOR][COLOR=goldenrod]PIKACHU  [COLOR forestgreen]ENTRETENIMENTOS:  [COLOR white]bit.ly/pikachufuul2[/COLOR][COLOR=forestgreen]  >>[/COLOR][/I][/B]</name>
+<channels>
+<channel>
+<name> [B][I][COLOR=forestgreen]<<  [/COLOR][COLOR=goldenrod]PIKACHU  [COLOR forestgreen]ENTRETENIMENTOS:  [COLOR white]bit.ly/pikachufuul2[/COLOR][COLOR=forestgreen]  >>[/COLOR][/I][/B]</name>
 <genre>[I][COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos !!![/I][/COLOR]</genre>
 <description>[I][B][COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos !!![/B][/I][/COLOR]</description>
 <thumbnail>https://i.imgur.com/mwuGXDs.jpg</thumbnail>
 <fanart>https://i.imgur.com/rG4pUdw.jpg</fanart>
 <date>21.SETEMBRO.2020</date>
-<credits>A DEUS! Que Me Ajudou a Vencer Os Traidores !!!</credits></item>
+<credits>A DEUS! Que Me Ajudou a Vencer Os Traidores !!!
+</channel>
+</channel>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<channels></channels><channel><item><name>[B][I][COLOR goldenrod] Baixe e instale a Novo Addon 7-0 [COLOR forestgreen] Disponivel [COLOR white] Em Bit.ly/pikachufull2 [COLOR gray] ->-> [COLOR goldenrod]PIKACHU [/COLOR][/I][/B]</name>
+<channel>
+<channel><name>[B][I][COLOR goldenrod] Baixe e instale a Novo Addon 7-0 [COLOR forestgreen] Disponivel [COLOR white] Em Bit.ly/pikachufull2 [COLOR gray] ->-> [COLOR goldenrod]PIKACHU [/COLOR][/I][/B]</name>
 <fanart>https://i.imgur.com/FxLtXFL.jpg</fanart>
 <thumbnail>https://i.imgur.com/pUxzw0R.png</thumbnail>
 <genre>[I][B][COLOR goldenrod]Disponivel Em Bit.ly/pikachufull2 [COLOR forestgreen]Bit.ly/pikachufull2 !!![/B][/I][/COLOR]</genre>
 <link>http://ignoreme</link>
 <info>[I][B][COLOR goldenrod]Disponivel Em Bit.ly/pikachufull2 [COLOR forestgreen]Bit.ly/pikachufull2 !!![/B][/I][/COLOR]</info>    
-<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/teste</externallink></item>
+<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/teste</externallink>
+</channel>
+</channel>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ******************************************************************************************************************************************************************************************************************************************************************************
