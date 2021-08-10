@@ -20,6 +20,48 @@
 </item>
 
 <item>
+<title>[COLOR orange][B]Cine Drama[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>url_alt":"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
+<title>[COLOR orange][B]Cine Terror[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
+<title>[COLOR orange][B]TV Séries[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
+<title>[COLOR orange][B]TV Retrô[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
+<title>[COLOR orange][B]MTV[/B][/COLOR]</title>
+<thumbnail>https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
+</item>
+
+<item>
+<title>[COLOR orange][B],,,,[/B][/COLOR]</title>
+<thumbnail>g</thumbnail>
+<fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
+<link></link>
+</item>
+
+<item>
 <title>[COLOR orange][B],,,,[/B][/COLOR]</title>
 <thumbnail>g</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
