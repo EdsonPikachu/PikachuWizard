@@ -13,10 +13,10 @@
 </item>
 
 <item>
-<title>[COLOR orange][B],,,,[/B][/COLOR]</title>
-<thumbnail>g</thumbnail>
+<title>[COLOR orange][B]Cine Comédia[/B][/COLOR]</title>
+<thumbnail>logo":"https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
-<link></link>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=</link>
 </item>
 
 <item>
