@@ -3,7 +3,7 @@
 <name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]TV AO VIVO[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/teste.txt</externallink>
+<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/tvmeneu</externallink>
 <fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
 <info>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen] PARA TODA FAMILIA   [/COLOR][/B]</info> 
 </channel></channels> 
