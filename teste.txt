@@ -1,16 +1,6 @@
 [B][COLOR goldenrod] ●
 
 <item>
-6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Não tem isso[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer03/ondemand/CNDRT01EP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
-6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/AcIh4ndmOho7KEmIbJ22TeulEdo.jpg</thumbnail>
-6<genre>[I][COLOR gray]16, Drama, 53m[/COLOR][/I]</genre>
-6<fanart>https://image.tmdb.org/t/p/original/fc9ebsTmVCvv6jjD2qT7rWazaej.jpg</fanart>
-6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Mae é torturada por questões persistentes em torno da morte de seu marido. Caleb conta a Joe sobre sua fonte da CIA. Joubert e Boyd se cruzam na casa de Kathy e fazem uma descoberta crítica. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
-</item>
-
-<item>
 <title>[B][COLOR goldenrod]😎 Picachu 😎  [COLOR forestgreen]Pluto Tv Guia De Canais[/B][/COLOR]</title>
 <thumbnail>https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png</thumbnail>
 <fanart>https://i0.statig.com.br/bancodeimagens/4a/g0/ve/4ag0ve9eaw8rh1cb4g4y24twu.jpg</fanart>
