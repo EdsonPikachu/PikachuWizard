@@ -1,3 +1,14 @@
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]* [COLOR white]- [COLOR goldenrod]teste[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Pikachu]|Referer=https://redecanais.re/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>http://homeingles.fun/player3/download.php?vid=RCFServer5/ondemand/SPCEJMUMNVOLGADO</page><referer>Referer=https://redecanais.re</referer></regex>
+6<thumbnail>@@@</thumbnail>
+6<genre>[I][COLOR gray]@@@[/COLOR][/I]</genre>
+6<fanart>@@@</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]@@@ [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+
+
 <item><title>[B]Arte 1 HD[/B]</title>
 <link>https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png</thumbnail>
