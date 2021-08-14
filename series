@@ -10,9 +10,9 @@
 
 
 
-channels>
+channels
 <channel>
-<name>[COLOR goldenrod]The Good Doctor: O Bom Doutor [/COLOR]</name> 
+<nameR goldenrod]The Good Doctor: O Bom Doutor [/COLOR]</name> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucMdbTpOhV75R0NtxqHEg4hirNl.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/the%20good%20doctor</externallink>
 <fanart>https://image.tmdb.org/t/p/original/edLV34FXx1iFJA3hbZE7SYRSS4m.jpg</fanart>
@@ -2078,7 +2078,7 @@ channels>
 <channel>
 <name>[COLOR goldenrod]13 Reasons[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nel144y4dIOdFFid6twN5mAX9Yd.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/13%20REASONS</externallink>
+<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/13REASONS</externallink>
 <fanart>https://image.tmdb.org/t/p/original/3I3qqwRuNguPjZIA5Ud6zSv7nlE.jpg</fanart>
 <info>Após o suicídio perplexo de uma adolescente, uma colega de classe recebe uma série de fitas que desvendam o mistério de sua trágica escolha<info>
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>
