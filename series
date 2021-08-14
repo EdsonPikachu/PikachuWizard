@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]The Good Doctor: O Bom Doutor [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]The Good Doctor: O Bom Doutor [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucMdbTpOhV75R0NtxqHEg4hirNl.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/the%20good%20doctor</externallink>
 <fanart>https://image.tmdb.org/t/p/original/edLV34FXx1iFJA3hbZE7SYRSS4m.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]GAME OF THONES[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]GAME OF THONES[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bk7SJsNtVP97faavetnurgXdrOF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Game%20Of%20Thrones</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/zTjMmLFn2jgsxZwHC5fbsm6HHG4.jpg</fanart>
@@ -28,7 +28,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] BONES [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] BONES [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rElaRnNez2dXBCMv1THHdVcroFY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BONES</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/4nwLqrQDZy7gRxkWkDaUyhSmgde.jpg</fanart>
@@ -41,7 +41,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]THE FLASH[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]THE FLASH[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBF3wcUp3SgnlYNOXQeaDg5XfTu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE%20FLASH</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/tVL0q0a0WvkZjgu4oD3R4uH15JA.jpg</fanart>
@@ -54,7 +54,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Sherlock [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Sherlock [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aguWVR8xNilvw7t4X03UvG1hRJr.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SHERLOCK</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/nVvRmjGj1TBM66Nb7tWtEawTdrV.jpg</fanart>
@@ -67,11 +67,11 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] QUANTICO [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] QUANTICO [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eukbwKZSDY7Nbp97ecR5hTkNJVo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/QUANTICO</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/usIjQ1OmRu8uK09XvtfwT8Pd8gY.jpg</fanart>
-<info>[B][COLOR red] SINOPSE:Um grupo diverso de brilhantes e controlados recrutas chega à base do FBI em Quantico para o treinamento. Eles são considerados alguns dos melhores agentes, mas, paradoxalmente, um deles se torna suspeito de planejar o maior ataque em Nova York desde o dia 11 de setembro.[COLOR red][/COLOR][/B]</info> 
+<info>[B][COLOR red] SINOPSE:Um grupo diverso de brilhantes e controlados recrutas chega à base do FBI em Quantico para o treititlento. Eles são considerados alguns dos melhores agentes, mas, paradoxalmente, um deles se torna suspeito de planejar o maior ataque em Nova York desde o dia 11 de setembro.[COLOR red][/COLOR][/B]</info> 
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info> 
 </channel>
 </<channels>
@@ -80,7 +80,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] KRYPTON [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] KRYPTON [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kO8mvWSIfyHvu2OJPxxaIQdVrah.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/KRYPTON</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/5HkZNcoNDTBASSkMrfrYAnkTfhQ.jpg</fanart>
@@ -93,7 +93,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Superman & Lois [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Superman & Lois [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Superman%20e%20Lois</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/zf4YtcoDFHDLIKjQZqZzTGCGZa2.jpg</fanart>
@@ -106,7 +106,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Smallville: As Aventuras do Superboy[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Smallville: As Aventuras do Superboy[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BcPslccbs5symFx89BhupWbAwn.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Smallville%3A%20As%20Aventuras%20do%20Superboy</externallink>
 <fanart>https://image.tmdb.org/t/p/original/u9yZHsBm0i3yFy0uvi2Cl5U7GiL.jpg</fanart>
@@ -119,7 +119,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Virgin River [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Virgin River [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Virgin%20River</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/zHFiLL6lyrJ0QtPuXogEK795j32.jpg</fanart>
@@ -132,7 +132,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Sex/Life [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Sex/Life [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ST6l4WP7ZfqAetuttBqx8F3AAH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SEX%20LIFE</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/9nBVkNBe4x9HKDAzxjxlIqecxCW.jpg</fanart>
@@ -145,7 +145,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] SOLO [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] SOLO [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/szoC8f6wAXGmgn0aiSDroRx7Ngs.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SOLO</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/6hJOvxRz5U1fjSv514lY3zgr5Sg.jpg</fanart>
@@ -158,7 +158,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] LOKI [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] LOKI [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LOKI</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/xxlteGxXhpgnoMF7SvdYwHvljnB.jpg</fanart>
@@ -171,7 +171,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Resident Evil - No Escuro Absoluto [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Resident Evil - No Escuro Absoluto [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXwmeJxg2i8iQum6qsOzP5Vu28B.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Resident%20Evil%20-%20No%20Escuro%20Absoluto</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/uPHXbrh9jlq2XgfjjTFlkJfgtOQ.jpg</fanart>
@@ -184,7 +184,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] October Faction [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] October Faction [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7yrXh19tH2ThJHXriORT16WKbBi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/October%20Faction</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/tfeF3jvHx5S7kYTIAcS9SVIjbiv.jpg</fanart>
@@ -197,7 +197,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Raised by Wolves [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Raised by Wolves [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Raised%20by%20Wolves</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/na2xUduK8HviOFT97TiFG2MkJmY.jpg</fanart>
@@ -210,7 +210,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] OZ [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] OZ [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/CwqqwYWnMOLUwsqAqveHNnwTGC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OZ</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/rA14NVF1jLxvvcSEYN3GaqP2lA8.jpg</fanart>
@@ -223,7 +223,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] KATLA [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] KATLA [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRPDQP51i1Z2RuoIQaxVSj7Pd5R.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Katla</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/62ru3SuwgM3au8gAmBuFBFZK0Ih.jpg</fanart>
@@ -236,7 +236,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] SEAL Team [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] SEAL Team [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v0G8cbPtGoiTBFb4HW1hAJJFMol.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SEAL%20Team</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/rNMjJv30uaNYoS2k20JKwwfc1cl.jpg</fanart>
@@ -249,7 +249,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]  Ballers [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]  Ballers [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/WyIazPyjmcFMC42nWEpI0jr56x.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BALLERS</externallink>
 <fanart>https://image.tmdb.org/t/p/original/gJYmNZ4Kh2NDt8KIvD20fZkX73s.jpg</fanart>
@@ -262,7 +262,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Lupin[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Lupin[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zxogdrMHGHfA9nsbfIcOKNpZkRg.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Lupin</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/lbWUCXIeoVXowAtLlAVR3aeHjkT.jpg</fanart>
@@ -275,7 +275,7 @@
 
 <channels> 
 <channel>
-<name>[COLOR goldenrod] Manifest [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Manifest [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nSY1JXE5ObgCZMbp7v6U1dVCbHp.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Manifest</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/6PwZyC9BGlLxif5J3EUUxyCH8Wo.jpg</fanart>
@@ -288,7 +288,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]  Manhunt - Unabomber [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod]  Manhunt - Unabomber [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gmSOPIOenH39XHEdtfPwgi2lWNj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/manhunt%20unabomber</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/cZgn0nxMFyi2KEgZsjN7roOQdud.jpg</fanart>
@@ -301,7 +301,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] THE RANCH [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] THE RANCH [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE%20RANCH</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/rIycDdkLET20EVW2LPytLNuyOp3.jpg</fanart>
@@ -314,7 +314,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] L.A.'s Finest [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] L.A.'s Finest [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p31nkdkvVMyyzYZL1lz1ZDu7Q9p.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/L.A.s%20Finest</externallink>        
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bjUdnaa0FkyMPVfox8pVxD7XPnn.jpg</fanart>
@@ -327,7 +327,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Haunted [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Haunted [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kGuqHcERMsnHGlVb9NVsqLJtiqM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Eu%20Vi</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/1NI7NLFdepXCSWoGmTlitR0hyI2.jpg</fanart>
@@ -340,7 +340,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]LUCIFER[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]LUCIFER[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sBx2Ew4WFsa1YY32vlHt079O03.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/L%C3%BAcifer</externallink>  
 <fanart>https://image.tmdb.org/t/p/original/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg</fanart>
@@ -353,7 +353,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Van Helsing [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Van Helsing [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cu9wob15Rdxf7KISXmSabvlUolj.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Van%20Helsing</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/s7hewEh47xAJL92ZmfrgP0mvdPf.jpg</fanart>
@@ -366,7 +366,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Hospital New Amsterdam [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Hospital New Amsterdam [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ixlNw73TP1TUBHqrsCjepAwnjAT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Hospital%20New%20Amsterdam</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/xsMTAxjpb34JAORmn1s5szJlThX.jpg</fanart>
@@ -379,7 +379,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] The Looming Tower [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] The Looming Tower [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e5YY7f0vyVdE2T8x40MZOe0EB5q.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/fajk9hp8iLF3PiFBtHr4hjLhL1y.jpg</fanart>
@@ -392,7 +392,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] La Trêve [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] La Trêve [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2ftkn16U1WpHPEpICtTI5GI00l.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/La%20Tr%C3%AAve</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/gy4yUaD1AtRKQBUiajXJVci7jlX.jpg</fanart>
@@ -405,7 +405,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] O Legado de Júpiter  [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] O Legado de Júpiter  [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/O%20Legado%20de%20J%C3%BApiter</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/upZJGNKD0zfaNzNFnXJYGliCB2v.jpg</fanart>
@@ -418,7 +418,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Elementary [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Elementary [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCKamhcbXq20Hn6kukALTNnMHVj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Elementary</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/xzwP86OqalS1Ly7LqXwgUUzl38B.jpg</fanart>
@@ -431,7 +431,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] O Mentalista [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] O Mentalista [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/O%20Mentalista</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/oQWQjVlIV9RzWa1GvpDYk7SuNhc.jpg</fanart>
@@ -444,7 +444,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] True Detective [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] True Detective [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mGnuYyAGbn4EKxIj61JYIlNJmim.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/True%20Detective</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/8x4umpJVPgTplAmEIojVVYWAhum.jpg</fanart>
@@ -457,7 +457,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Arquivo X [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Arquivo X [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p0uhiJmkzlJsvTyn0KKiLwrwGwA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/ARQUIVO%20X</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/ucyQMoSTH5FkCcQl4G4rLMtRSsJ.jpg</fanart>
@@ -470,7 +470,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] COLD CASE [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] COLD CASE [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/COLD%20CASE</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/k9rXmhd01NHzan6o2usVu7ogbh9.jpg</fanart>
@@ -483,7 +483,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Sombra e Ossos [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Sombra e Ossos [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8SLImCydfUztlfOFN2aOw1e4t9b.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Sombra%20e%20Ossos</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/qzSjrYSZAWrjhg6Yf3hCcfJE4o0.jpg</fanart>
@@ -496,7 +496,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Harrow [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Harrow [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nvMjQ2Ov0p2xv7lTuCQfU76KCz.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Harrow</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/hZ5jmAl7hhasN3cdovbvAQjy9YA.jpg</fanart>
@@ -509,7 +509,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] A Bíblia [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] A Bíblia [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqGupIDrTHosdGTm5N0V4qMrZyf.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20B%C3%ADblia</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/qDDnuOJxq3jd91PHlea8XWFmfzt.jpg</fanart>
@@ -522,7 +522,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Chosen [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Chosen [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tlwlSHb9G5j23ZT20QWHFUSflos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Chosen </externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/yWS6hpgRRgwLmGV4kHrMua5u66Q.jpg</fanart>
@@ -535,7 +535,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] O Último Dragão [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] O Último Dragão [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1eKrOjS7OSOjgmEIdCNmKEEItKJ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/O%20%C3%9Altimo%20Drag%C3%A3o</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/flCqseSGWr0qIY6tn9DHM2mtEwo.jpg</fanart>
@@ -548,7 +548,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Agente Carter, da Marvel  [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Agente Carter, da Marvel  [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yUV0l4Kzned4zZmOw4LpzZkGrG8.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Agente%20Carter</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/ykRvMFCDOexErivy97E1ZwwOiqR.jpg</fanart>
@@ -561,7 +561,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] APB [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] APB [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6nobSVxOse1XFO43CLyH6r6u5DN.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/APB</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/3nC5jxf99QDqiGcjygCANFzwQjg.jpg</fanart>
@@ -574,7 +574,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] House of Cards [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] House of Cards [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gFzNptp0vSAL7jOqHAb6UM2nU3y.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/House%20of%20Cards</externallink>         
 <fanart>https://www.themoviedb.org/t/p/original/ex4kvQb0Ski5KL2fsnKQU2hV3oo.jpg</fanart>
@@ -587,7 +587,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] American Horror Story  [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] American Horror Story  [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mH17Vj0oKB7rYJEV0W1pSJKiNAu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/American%20Horror%20Story</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/98EzU0s1w5C7K5TGfemQIhqQTIO.jpg</fanart>
@@ -600,7 +600,7 @@
 
  <channels>
 <channel>
-<name>[COLOR goldenrod] O Reino Perdido dos Piratas [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] O Reino Perdido dos Piratas [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQZpVysbT5FGYVYrsjuwQa2XIay.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/O%20Reino%20Perdido%20dos%20Piratas</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/61AZhYnjayWHld2ocdYtX9k6PKH.jpg</fanart>
@@ -613,7 +613,7 @@
  
  <channels>
 <channel>
-<name>[COLOR goldenrod] 24 Horas: O Legado [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] 24 Horas: O Legado [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7zKAPnbO7Zt390RdRg5vmA7owto.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/24%20HORAS%20O%20LEGADO </externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/bUlrQmMvZMLwNqlILyCKEV5wGyX.jpg</fanart>
@@ -626,7 +626,7 @@
   
 <channels>
 <channel>
-<name>[COLOR goldenrod] Unidade 42 [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Unidade 42 [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wu1V250LBGv8VISXoNsC9qKl9qh.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Unidade%2042</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/nWxWBNe3oGs5XxVIjXfIIfjE5Sm.jpg</fanart>
@@ -639,7 +639,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Falcão e o Soldado Invernal  [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Falcão e o Soldado Invernal  [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Falc%C3%A3o%20e%20Soldado%20Invernal</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/mCk50hYH8bHdktLNiWYamMrZkpS.jpg</fanart>
@@ -652,7 +652,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Constantine [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Constantine [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Constantine</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/3tq8kLes9zsPHu0zg0cz3E3GHN3.jpg</fanart>
@@ -665,7 +665,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Lendas do Amanhã [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Lendas do Amanhã [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/61JMWAmLqgbVQrKw86vwNnIGtzB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LENDAS%20DO%20AMANHA</externallink>         
 <fanart>https://www.themoviedb.org/t/p/original/nPjJ4fNgpyrvseflxD3QC9yxInR.jpg</fanart>
@@ -678,7 +678,7 @@
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]Agentes da SHIELD da Marvel (2013)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Agentes da SHIELD da Marvel (2013)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXiETfFK1BTLest5fhTLfDLRdL6.jpg</thumbnail>     
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/S.H.I.E.L.D</externallink>
 <fanart>https://image.tmdb.org/t/p/original/3hKCQ4bi8Mo6vaaRsRIvoOodNTO.jpg</fanart>
@@ -691,11 +691,11 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Under The Dome [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] Under The Dome [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/de3AmQ1WdPPG2nSgB00xQeLUFEX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Under%20The%20Dome</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/AvFsFV30q72B890gRqVRQ8YMYZm.jpg</fanart>
-<info>Uma pequena cidade americana é repentinamente isolada do restante do mundo por uma enorme e indestrutível cúpula transparente.<info> 
+<info>Uma pequena cidade americana é repentititlente isolada do restante do mundo por uma enorme e indestrutível cúpula transparente.<info> 
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>
 </channel>
 </<channels>
@@ -704,7 +704,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] the Walking Dead [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] the Walking Dead [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wmv0oIun52Xeq65sBKfHiUkiBKc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/the%20Walking%20Dead</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/qgEqN2evfxGhXyIjIpMdKSc1kF6.jpg</fanart>
@@ -717,7 +717,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]DESIGNATED SURVIVOR [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod]DESIGNATED SURVIVOR [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5R125JAIh1N38pzHp2dRsBpOVNY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Designated%20Survivor</externallink>         
 <fanart>https://image.tmdb.org/t/p/original/9MPw3v6psxq9UZ8Ninwto548pbb.jpg</fanart>
@@ -730,7 +730,7 @@
   
 <channels>
 <channel>
-<name>[COLOR goldenrod]A Lenda de Sleepy Hollow[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]A Lenda de Sleepy Hollow[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CxHPDRsE7vHNz68GybXOMLxiNB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Lenda%20de%20Sleepy%20Hollow</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/nfWWVIX1txYXSJFungrv1B3phAC.jpg</fanart>
@@ -742,7 +742,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 <channels>
 <channel>
-<name>[COLOR goldenrod]The Following[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]The Following[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jNuBdkD4EP1FzTafwdHt4cJ6VQy.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Following</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/qHJxQRA7ZWaEnZmcxenAp2jcvRL.jpg</fanart>
@@ -755,7 +755,7 @@
 
 <channels>
 <channel>
- <name>[COLOR goldenrod]Boardwalk Empire - O Império do Contrabando [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+ <title>[COLOR goldenrod]Boardwalk Empire - O Império do Contrabando [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x75dbQ6wG5uH1EuLWMpSa2GTR5P.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Boardwalk%20Empire%20-%20O%20Imp%C3%A9rio%20do%20Contrabando</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/mrh44wUE2QsDt0DPDRd4njpT9b0.jpg</fanart>
@@ -768,7 +768,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Coroner[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Coroner[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/58fkjd5o295CRLPywxIlyiukfSw.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Coroner</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/i46T9MnizqIYuRHINZfr8enXsot.jpg</fanart>
@@ -783,7 +783,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]The Strain[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]The Strain[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mheTNnmbwJjbgXP6ov5DNRiA1la.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Strain</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/4YnAZ1KO9goeS4c06VO7HXiO3oO.jpg</fanart>
@@ -796,7 +796,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]High Castle[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>  
+<title>[COLOR goldenrod]High Castle[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>  
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mbZuEljvCynef72C9XTNKiGhnGh.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Lupin</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/ueVtPVNFU68ZFfnCxw0NqAUDGkP.jpg</fanart>
@@ -809,7 +809,7 @@
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]Chicago PD (2014)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Chicago PD (2014)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/OlPR1kctwXzSUJQkZINDDhNlHV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Chicago%20P.D.</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/f9eLOgAiN8x7nFXbedYxb3KCKxR.jpg</fanart>
@@ -822,7 +822,7 @@
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]Chicago Fire (2012)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod]Chicago Fire (2012)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6AccYL0eb7uzHn98IKaNjvJbyuA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Chicago%20Fire</externallink>  
 <fanart>https://www.themoviedb.org/t/p/original/W5geO8tq68ng4TsXyZ81phcPiz.jpg</fanart>
@@ -835,11 +835,11 @@
 
 <channels>
 <channel> 
-<name>[COLOR goldenrod]Chicago Med (2015)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod]Chicago Med (2015)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8mFhW6fJlapqq3cmQjxcG5h4KFa.jpg</thumbnail>   
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Chicago%20Med</externallink>  
 <fanart>https://www.themoviedb.org/t/p/original/sHjNS2lYyEjwjjQXTZmdyMJ29bI.jpg</fanart>
-<info>Uma emoção emocionante percorre o caos diário do hospital mais explosivo da cidade e a corajosa equipe de médicos que o mantém unido. Eles enfrentarão casos novos e únicos inspirados por eventos atuais, forjando relacionamentos de fogo no pandemônio da sala de emergência.<info>
+<info>Uma emoção emocionante percorre o caos diário do hospital mais explosivo da cidade e a corajosa equipe de médicos que o mantém unido. Eles enfrentarão casos novos e únicos inspirados por eventos atuais, forjando relaciotitlentos de fogo no pandemônio da sala de emergência.<info>
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>  
 </channel>
 </<channels>
@@ -848,7 +848,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Chicago Justice: A Serviço da Lei [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod]Chicago Justice: A Serviço da Lei [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kOVTYM1OvxysWRV6uvBBm8pUKcM.jpg</thumbnail>    
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Chicago%20Justice</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/rhxeKzTX7LgdaXjzIJANWqdEvPB.jpg</fanart>
@@ -861,7 +861,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]FBI[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]FBI[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKulwcleWvL9Aoa9VLIT0TQpHqC.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FBI</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/uoBXmXoN1iDFbN0zFUtV5QLSqJ2.jpg</fanart>
@@ -874,7 +874,7 @@
 
 <channels> 
 <channel>
-<name>[COLOR goldenrod]FBI: Os Mais Procurados[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>  
+<title>[COLOR goldenrod]FBI: Os Mais Procurados[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>  
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FBI%20%20Most%20Wanted</externallink>    
 <fanart>https://www.themoviedb.org/t/p/original/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
@@ -887,7 +887,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Falling Skies [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod]Falling Skies [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i2ctkUM209mRyvWRrERXCbSarKr.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Falling%20Skies</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/50jvIBFjR7y4gf8Nduor5S57GcR.jpg</fanart>
@@ -900,7 +900,7 @@
  
 <channels>
 <channel>
-<name>[COLOR goldenrod]9-1-1[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]9-1-1[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/9-1-1</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/lli7WhMrFW656wUCr3mfej7sdW5.jpg</fanart>
@@ -913,7 +913,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Expresso do Amanhã [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Expresso do Amanhã [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n6UNHZoiYj81abwmG38HbNjflDx.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Expresso%20do%20Amanh%C3%A3</externallink>      
 <fanart>https://www.themoviedb.org/t/p/original/zvxv186qY8MI0RpdsdCjfq4OUd0.jpg</fanart>
@@ -926,7 +926,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]WandaVision[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]WandaVision[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/WandaVision</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/naadQeKaKyX0frlXPsZBvsZ5WNd.jpg</fanart>
@@ -939,7 +939,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] MORCO POLO [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod] MORCO POLO [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yImawhSjc6NFAW6J9bBscedAxDA.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/MARCO%20POLO</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/wIO6wchcimTxBe83ZcFlmq189zm.jpg</fanart>
@@ -952,7 +952,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]CARCEREIROS [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]CARCEREIROS [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAfXH6dfL8iYYfGTXBmrQVXGfHv.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CARCEREIROS</externallink>  
 <fanart>https://image.tmdb.org/t/p/original/z6DlpwrecAFWLA7GwT81Tlr1PAm.jpg</fanart>
@@ -965,7 +965,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]The Oath: O Juramento [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]The Oath: O Juramento [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dIiE5lbCraPXCrNb8hxxIZxlXrC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Oath%3A%20O%20Juramento</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/wIoLcxlk5lh8na0P8kdbLIBWd9D.jpg</fanart>
@@ -979,7 +979,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]A Rainha do Sul[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]A Rainha do Sul[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Rainha%20do%20Sul</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/eteHn4OMqVtLkoXL6NTdsMU9cLx.jpg</fanart>
@@ -992,7 +992,7 @@
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]SOBRENATURAL[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]SOBRENATURAL[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfA53AIcoB2N21hvo7QdTEHRrJJ.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SOBRENATURAL</externallink>
 <fanart>https://image.tmdb.org/t/p/original/wuS0ER22VMvjRqVBn0zndHSYofA.jpg</fanart>
@@ -1005,7 +1005,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]VIKINGS[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]VIKINGS[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff1zhqvwfS5HvRNcA5UFrH0PA2q.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/VIKINGS</externallink>
 <fanart>https://image.tmdb.org/t/p/original/h1AHDMAe03EzvqV2Siu47SVzYlR.jpg</fanart>
@@ -1018,11 +1018,11 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]COBRA KAI[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]COBRA KAI[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTMMU2rKpZRbo9ERytyhwatwAjz.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/COBRA%20KAI</externallink>
 <fanart>https://image.tmdb.org/t/p/original/gL8myjGc2qrmqVosyGm5CWTir9A.jpg</fanart>
-<info>Esta sequência de Karate Kid pega 30 anos depois dos eventos do All Valley Karate Tournament de 1984 e encontra Johnny Lawrence em busca de redenção reabrindo o infame dojo de karate Cobra Kai . Isso reacende sua antiga rivalidade com o bem-sucedido Daniel LaRusso, que vem trabalhado para manter o equilíbrio em sua vida sem o seu mentor Miyagi.<info>
+<info>Esta sequência de Karate Kid pega 30 anos depois dos eventos do All Valley Karate Tourtitlent de 1984 e encontra Johnny Lawrence em busca de redenção reabrindo o infame dojo de karate Cobra Kai . Isso reacende sua antiga rivalidade com o bem-sucedido Daniel LaRusso, que vem trabalhado para manter o equilíbrio em sua vida sem o seu mentor Miyagi.<info>
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info> 
 </channel>
 </<channels>
@@ -1031,7 +1031,7 @@
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]GOTHAM[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]GOTHAM[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/GOTHAM</externallink>
 <fanart>https://image.tmdb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
@@ -1044,7 +1044,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]A lista negra [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]A lista negra [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgbQCW4fE9b6wSOSC6Fb4FfVzsW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20LISTA%20NEGRA</externallink>       
 <fanart>https://image.tmdb.org/t/p/original/8b4X7cFOagllHuERcefvDpECwDz.jpg</fanart>
@@ -1057,7 +1057,7 @@
 
 <channels>  
 <channel> 
-<name>[COLOR goldenrod]A Princesa Espanhola[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>  
+<title>[COLOR goldenrod]A Princesa Espanhola[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>  
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Princesa%20Espanhola</externallink>       
 <fanart>https://image.tmdb.org/t/p/original/fqwiXEhKNyNxFRjHc5IpDiLYPE4.jpg</fanart>
@@ -1070,7 +1070,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Um Drink no Inferno - A Série[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>  
+<title>[COLOR goldenrod]Um Drink no Inferno - A Série[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>  
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKhPpTYyXxteMlTCoHfiB6mjlB7.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Um%20Drink%20no%20Inferno</externallink>  
 <fanart>https://image.tmdb.org/t/p/original/9BVUE80moATrPDz53poxuoFjJsQ.jpg</fanart>
@@ -1083,7 +1083,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]MacGyver[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]MacGyver[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOmsztiEeBOYaUsFoERqbQ4VWpd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/MacGyver</externallink>
 <fanart>https://image.tmdb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart> 
@@ -1097,7 +1097,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
   
 <channels>
 <channel>
-<name>[COLOR goldenrod]Fronteira[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>  
+<title>[COLOR goldenrod]Fronteira[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>  
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhIeCeYgG4WJHNzaw2EyRpvmGX8.jpg</thumbnail>   
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Fronteira</externallink>
 <fanart>https://image.tmdb.org/t/p/original/zEKWlcEijIVCuqMHpdIGPnHtkpi.jpg</fanart>
@@ -1110,7 +1110,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]O Incrível Hulk [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]O Incrível Hulk [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/O%20Incr%C3%ADvel%20Hulk</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/iByskDYAql50lmEel8NdmAGFSty.jpg</fanart>
@@ -1123,7 +1123,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Crossing Lines[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Crossing Lines[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZvyHWIKOy9VuJqrwTT81JP5fx.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Crossing%20Lines</externallink>
 <fanart>https://image.tmdb.org/t/p/original/8yqeBu7XCSP4JywFetMp52HQq3O.jpg</fanart>
@@ -1136,7 +1136,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]O Exterminador do Futuro: As Crônicas de Sarah Connor[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>  
+<title>[COLOR goldenrod]O Exterminador do Futuro: As Crônicas de Sarah Connor[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>  
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOvsrnZCJV39MtOwheL0X5tUR5S.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/O%20Exterminador%20do%20Futuro%20-%20Cr%C3%B4nicas%20de%20Sarah%20Connor</externallink>
 <fanart>https://image.tmdb.org/t/p/original/2vGpJbJalYZAtvEWqceeFP9zV19.jpg</fanart>
@@ -1149,7 +1149,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]A Super Máquina[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]A Super Máquina[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Super%20M%C3%A1quina</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/hPIaq3LLJEp8M0zdbA5zM50S29m.jpg</fanart>
@@ -1162,7 +1162,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Damnation[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Damnation[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmoUClMYqrQ7EWWQXvgzWcjlb1W.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Damnation</externallink>
 <fanart>https://image.tmdb.org/t/p/original/j65e9nxC7yPbWuPjoYzlMFjW1mO.jpg</fanart>
@@ -1175,7 +1175,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]The Last Ship[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]The Last Ship[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zM6UvfOCxY6QtSVfJkhPG7rPW3c.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Last%20Ship</externallink>  
 <fanart>https://image.tmdb.org/t/p/original/osLqSV5hRW6moyOSGU4tcSAl33i.jpg</fanart>
@@ -1188,7 +1188,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] BUSCA IMPLACAVEL[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod] BUSCA IMPLACAVEL[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfAGotvZUVOBLHwoHNmWo8nEL7q.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BUSCA%20IMPLACAVEL</externallink>
 <fanart>https://image.tmdb.org/t/p/original/f3kPFcnHNFFIb0fVZpbiJHX5GYb.jpg</fanart>
@@ -1201,7 +1201,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] 24 horas [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod] 24 horas [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS6pfVUKcwxIUcrM0qg587QoRna.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/24%20Horas</externallink>
 <fanart>https://image.tmdb.org/t/p/original/sH3x95wGeQPiVQi3MSlBx40PfyP.jpg</fanart>
@@ -1214,7 +1214,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels> 
 <channel>
-<name>[COLOR goldenrod]Carga Explosiva - A Série[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod]Carga Explosiva - A Série[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIfSDYQ2zBz9F9QtUdHYj4JawzB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CARGA%20EXPLOSIVA</externallink>       
 <fanart>https://image.tmdb.org/t/p/original/4Fr3QWIGKXZAvov7uDw8OOxt9iA.jpg</fanart>
@@ -1227,7 +1227,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]LOST[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]LOST[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhS5dwYwqiMYQ6C6tO8uDaNjC1Z.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LOST</externallink>
 <fanart>https://image.tmdb.org/t/p/original/p6ouqxFa5QWK68JRwgnOmdW7gpY.jpg</fanart>
@@ -1240,7 +1240,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Bagdá Central [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Bagdá Central [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbTOJgE012C0xms9Lf2Uv2obdr0.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Bagd%C3%A1%20Central</externallink>
 <fanart>https://image.tmdb.org/t/p/original/6xvkBstqLd6jcETkNCPE07jamJj.jpg</fanart>
@@ -1253,7 +1253,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
   
 <channels>
 <channel>
-<name>[COLOR goldenrod]Estação 19[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Estação 19[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/apvr0s7sLvlPgNGtfuvM5EOJJMO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Station%2019</externallink>
 <fanart>https://image.tmdb.org/t/p/original/urf5Q3rkz6AkbZDkm3CANFy1b7R.jpg</fanart>
@@ -1266,7 +1266,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Godless[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Godless[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/avzB8x4xQEy0oeSJzVp94uhGCuu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Godless</externallink>
 <fanart>https://image.tmdb.org/t/p/original/d5KtYJg1nHLZPCsKOXg3NOSnfJb.jpg</fanart>
@@ -1279,7 +1279,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]Inferno Sobre Rodas [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Inferno Sobre Rodas [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/crHMFNQhYXxjPlU2URNYagsx5BB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Inferno%20Sobre%20rodas</externallink>
 <fanart>https://image.tmdb.org/t/p/original/zkwO726aAsVVoDqjoH669HO0VO2.jpg </fanart> 
@@ -1292,7 +1292,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Dr. House[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>  
+<title>[COLOR goldenrod]Dr. House[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>  
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqXOet108NMvt6ESqAnmdHKajnI.jpg</thumbnail>   
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/DR%20HOUSE</externallink>
 <fanart>https://image.tmdb.org/t/p/original/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg</fanart> 
@@ -1305,7 +1305,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]O Atirador[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>  
+<title>[COLOR goldenrod]O Atirador[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>  
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdjj3URyUczvAsu8QOu2mURkRli.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/ATIRADOR</externallink>
 <fanart>https://image.tmdb.org/t/p/original/gOmiB7hFpRSI5AwksTPOAqzOYV1.jpg</fanart>
@@ -1318,7 +1318,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Bárbaros[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Bárbaros[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6i3HTNt1in70Cm9jTIkck485PW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BARBAROS</externallink>
 <fanart>https://image.tmdb.org/t/p/original/2xp1uTv9fbUJxDl6esAIBHnAvkC.jpg</fanart>
@@ -1331,7 +1331,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]La Révolution [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]La Révolution [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NkBL8Qj29M3Uc2WuYk9jHL7azy.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/La%20R%C3%A9volution</externallink>
 <fanart>https://image.tmdb.org/t/p/original/nK2GfPkbHHLusfcR2ojbqbCebnw.jpg</fanart>
@@ -1344,7 +1344,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Família Moderna[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Família Moderna[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/at53I0JpCzY0XOcG5CSIKaFdBoc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Fam%C3%ADlia%20Moderna</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu5vEUHgxkAPmX26ISQXqHmlPMq.jpg</fanart>
@@ -1357,7 +1357,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]The Mandalorian [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]The Mandalorian [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yW1gHKDy5Sg3nORaGz8VHiKiF6S.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/O%20Mandaloriano</externallink>
 <fanart>https://image.tmdb.org/t/p/original/tW7colv0Zv40fNJOC9w9T68CsgG.jpg</fanart>
@@ -1371,7 +1371,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]The Rookie[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]The Rookie[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/arPUIveaNTdlZeSrOPrgof6UvhQ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Rookie</externallink>
 <fanart>https://image.tmdb.org/t/p/original/IBSUytKHcJSYxTSTHlZa2f2uzm.jpg</fanart>
@@ -1384,7 +1384,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]CONDOR[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]CONDOR[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/28cIK70tN2t4gPTV8CBQZED1H2G.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CONDOR</externallink>
 <fanart>https://image.tmdb.org/t/p/original/uxqf2uRHs0FFOVoQznF5KdBhFqc.jpg</fanart>
@@ -1397,11 +1397,11 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]THE RESIDENT[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]THE RESIDENT[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5E9GrO7cT3zkNQVUQu8C8cS7Tk.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE%20RESIDENT</externallink>
 <fanart>https://image.tmdb.org/t/p/original/kLNq4wFD2ErH9eVZlMGy7Wgafv2.jpg</fanart>
-<info>A série é focada nos últimos anos de treinamento de um jovem doutor que revela tudo o que acontece nos hospitais de todo o país.<info>
+<info>A série é focada nos últimos anos de treititlento de um jovem doutor que revela tudo o que acontece nos hospitais de todo o país.<info>
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>
 </channel>
 </<channels>
@@ -1410,7 +1410,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Ash vs Evil Dead [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Ash vs Evil Dead [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsX1atjvymc4CKu72jE400QJGzL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Ash%20vs%20Evil%20Dead</externallink>
 <fanart>https://image.tmdb.org/t/p/original/qZUwyKMOYOaLmNvrnIP9tfdUsRM.jpg</fanart>
@@ -1423,7 +1423,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Slasher[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Slasher[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySFDBMgVwAGZ8dw2Z9ols4Qulyt.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Slasher</externallink>
 <fanart>https://image.tmdb.org/t/p/original/9TmBxymeTf6nYA0p85yuGuvhPL9.jpg</fanart>
@@ -1436,7 +1436,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]A Garota do Blog [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]A Garota do Blog [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/usPzuixcxC8q4PoTaWzolZflXg5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Garota%20do%20Blog</externallink>
 <fanart>https://image.tmdb.org/t/p/original/kIcwnGQ45qnmtEBEQLxfqhqGkHD.jpg</fanart>
@@ -1449,7 +1449,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Hannibal[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Hannibal[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zcgbPOEyuxS44ilJh6FIEEqH9j.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/HANNIBAL</externallink>
 <fanart>https://image.tmdb.org/t/p/original/iyHt6T8naPXglpCSSyTqLSQEOwh.jpg</fanart>
@@ -1462,7 +1462,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Operação Ecstasy[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Operação Ecstasy[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziOJNiNUbomrs81behksd0z9Qoz.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Opera%C3%A7%C3%A3o%20Ecstasy</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/xyEXsa59TIu8ELeIMQtXyXpmRMh.jpg</fanart>
@@ -1475,7 +1475,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]CARGA PESADA[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]CARGA PESADA[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdOsXCUvlbRALoglf0adyxm1NRA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CARGA%20PESADA</externallink>
 <fanart>https://image.tmdb.org/t/p/original/vSp1g8CfR9AqjuuixkAXJvCEZwz.jpg</fanart>
@@ -1488,7 +1488,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Scream Queens [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Scream Queens [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeayXZYSU8xdmC8i5g5jTdxeggp.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Scream%20Queens</externallink>
 <fanart>https://image.tmdb.org/t/p/original/oj81AUVQQ6hVgKTaXUnmia2zdpa.jpg</fanart>
@@ -1501,7 +1501,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]SECTION ZERO[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]SECTION ZERO[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceBTU9JqcWDgpsPaS7kQ3oI1CSR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SECTION%20ZERO</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/kPzfY5TlKJdgkc4pQJmQC9tC4Jp.jpg</fanart>
@@ -1514,7 +1514,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]AWAY[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]AWAY[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZKqLBIZcjaB5NEpFr4umT8ezoW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/AWAY</externallink>
 <fanart>https://image.tmdb.org/t/p/original/xWO6nUn69VHqKGm2U2aC1VHUbVT.jpg</fanart>
@@ -1527,7 +1527,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Peaky Blinders: Sangue, Apostas e Navalhas [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Peaky Blinders: Sangue, Apostas e Navalhas [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/se86cWSwdSftjJH8OStW7Yu3ZPC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/PEAKY%20BLINDERS</externallink>
 <fanart>https://image.tmdb.org/t/p/original/oDj5dCxdsR2ZmmangqNCYS9cxBH.jpg</fanart>
@@ -1540,7 +1540,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] CSI: Nova York [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod] CSI: Nova York [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blajdd5D01slFW2Er5SMwXhs9IM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CSI%20New%20NY</externallink>        
 <fanart>https://image.tmdb.org/t/p/original/nlzm4D9Sj9Xv9PDU0XrSFUAhxU1.jpg</fanart>
@@ -1553,7 +1553,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Batwoman[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Batwoman[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnaimWkIVSD9IInmZPyLYarSvvc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BATWOMAN</externallink>
 <fanart>https://image.tmdb.org/t/p/original/uyvvnP1dlRBv33JAiEJ5nriAGmD.jpg</fanart>
@@ -1566,7 +1566,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Heroes[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Heroes[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/original/uPoPcVwRbHG34p0VwzGQ4aXb8n2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/HEROES</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2byhnB4SsPRuLjRJN5nqCMI3Ld.jpg</fanart>
@@ -1580,7 +1580,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] GRIMM [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod] GRIMM [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHkyTojOJPV0NJU6RJr21SCOk0p.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/GRIMM</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/6Ygojsnq3vh8EHu6X2cEkRuvEh.jpg</fanart>
@@ -1593,7 +1593,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
   
 <channels>
 <channel>
-<name>[COLOR goldenrod]ponto cego[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]ponto cego[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pYyKZZlb3nd5ASbiuIxva718bp2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Blindspot</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg</fanart>
@@ -1606,7 +1606,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]DEXTER (2006)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]DEXTER (2006)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlN0cXpAj2I8kJTI9si2nY2A5YQ.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/DEXTER</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ecT6wR78bXHLbqAwtLNMDVirdit.jpg</fanart> 
@@ -1619,7 +1619,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Preacher (2016)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Preacher (2016)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/drMZsPk6qnMEvKpTSKM2s4ftLhq.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Preacher</externallink>
 <fanart>https://image.tmdb.org/t/p/original/nwH4PLVAFvq1WBj6bf9bqS72683.jpg</fanart>
@@ -1632,7 +1632,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Justified (2010)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Justified (2010)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVYuGDlOZMCRt89fAnHTYgk3BMr.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Justified</externallink>
 <fanart>https://image.tmdb.org/t/p/original/xcqMTGoMO65KNkZAg9tu2iukQqH.jpg</fanart>
@@ -1645,7 +1645,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Cursed - A Lenda do Lago [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Cursed - A Lenda do Lago [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvNHCHbpK26T5gDrJIOWN7JVGfQ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Cursed%20-%20A%20Lenda%20do%20Lago</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/uzUPwWSAheYKdavFCcod9M6y2rf.jpg</fanart>
@@ -1658,7 +1658,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod] Hightown [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod] Hightown [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWEPvtRKWBFgHD92LE4EXuBcNKk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Hightown</externallink>
 <fanart>https://image.tmdb.org/t/p/original/jBXk5dPH9JJMwabbIdbuyv2bMIk.jpg</fanart>
@@ -1671,7 +1671,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]THE BOYS[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]THE BOYS[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzOxNbbz1liFzHU1IPvdgUR647b.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Boys</externallink>
 <fanart>https://image.tmdb.org/t/p/original/bI37vIHSH7o4IVkq37P8cfxQGMx.jpg</fanart>
@@ -1684,7 +1684,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Grey's Anatomy (2005)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Grey's Anatomy (2005)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Grey's%20Anatomy</externallink>   
 <fanart>https://image.tmdb.org/t/p/original/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>
@@ -1697,7 +1697,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Dark[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Dark[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/DARCK</externallink>
 <fanart>https://image.tmdb.org/t/p/original/awJXnGjYN7O4fvquFN24sf8b3hq.jpg</fanart>
@@ -1710,7 +1710,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]BOSCH[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]BOSCH[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRwiVoCheRve9iXzVsqNpBRX473.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BOSCH</externallink>
 <fanart>https://image.tmdb.org/t/p/original/cvL2S1Zhs6YK15PvR1NeQKU4tk4.jpg</fanart>
@@ -1723,7 +1723,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]SPACE FORCE [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]SPACE FORCE [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta2c5gJWqdIMDdc30ufacchffjC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SPACE%20FORCE</externallink>
 <fanart>https://image.tmdb.org/t/p/original/lV6WA95QboTUQDkFWjP3wI9U8xp.jpg</fanart>
@@ -1736,7 +1736,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
  
 <channels>
 <channel>
-<name>[COLOR goldenrod]Treadstone (2019)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Treadstone (2019)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzoxJjPSgsPCepWgpl4LWjCKise.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Treadstone</externallink>
 <fanart>https://image.tmdb.org/t/p/original/uD1q3IqhWLmXsSeVEZzr7CRfdtO.jpg</fanart>
@@ -1749,7 +1749,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]ARROW[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>  
+<title>[COLOR goldenrod]ARROW[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>  
 <thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/ARROW</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>  
@@ -1762,7 +1762,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]LA CASA DE PAPEL[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]LA CASA DE PAPEL[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVUAfbrP5HDJugXraB7KQS0yz6Z.jpg</thumbnail>     
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LACASADEPAPEL</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg</fanart>
@@ -1774,7 +1774,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 <<channels>
 <channel>
-<name>[COLOR goldenrod]THE 100[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]THE 100[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE100</externallink>
 <fanart>https://image.tmdb.org/t/p/original/sIWQkAHMsOfObyGxlgllj8SzMFb.jpg</fanart> 
@@ -1787,7 +1787,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]NARCO [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]NARCO [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTmal9fDbwh5F0waol2hq35U4ah.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/NARCO</externallink>
 <fanart>https://image.tmdb.org/t/p/original/bT7pArYmcE91iCTec5H7pjrVbSu.jpg</fanart>
@@ -1800,7 +1800,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Narcos - Mexico [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Narcos - Mexico [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7s2h4JtWEjXDXhInBl5Zhbfv7pj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/NARCO-MEXICO</externallink>
 <fanart>https://image.tmdb.org/t/p/original/AhG90SeoMJ0xCI4ye21ru7Cr9we.jpg</fanart>
@@ -1813,7 +1813,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]Arcanjo renegado (2020)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Arcanjo renegado (2020)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/ARCANJO%20RENEGADO</externallink>  
 <fanart>https://image.tmdb.org/t/p/original/zcc32ExBGpCu0dwbthaj57lVaWR.jpg</fanart>
@@ -1826,7 +1826,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]CSI: Investigação da Cena do Crime (2000)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]CSI: Investigação da Cena do Crime (2000)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6hnMaWMuX2brNL6Dq52dDLxZMt.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CSI%3A%20Investiga%C3%A7%C3%A3o%20Criminal</externallink>
 <fanart>https://image.tmdb.org/t/p/original/AganKzamK1dnkqNoHwngavBVzor.jpg</fanart>
@@ -1839,7 +1839,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]The Witcher[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]The Witcher[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg</thumbnail>   
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE%20WITCHER</externallink>
 <fanart>https://image.tmdb.org/t/p/original/l2WMDggGBym6Q71UbbVaOTBXmNX.jpg</fanart> 
@@ -1852,7 +1852,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Titãs[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Titãs[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Tit%C3%A3s</externallink>
 <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
@@ -1865,7 +1865,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Breaking Bad [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Breaking Bad [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggFHVNu6YYI5L9pCfOacjizRGt.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BRAKING%20BAD</externallink>  
 <fanart>https://image.tmdb.org/t/p/original/3u5cElKDUxJQpK8tZRSqgt4vUEk.jpg</fanart>
@@ -1878,7 +1878,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]SPARTACUS[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]SPARTACUS[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/NoJF9udWJiulvPOMIl0xB6LOXM.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Spartacus</externallink>
 <fanart>https://image.tmdb.org/t/p/original/41GAgtaeRmwALwUFCc6FMzvNVJf.jpg</fanart>
@@ -1891,7 +1891,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Knightfall [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Knightfall [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5T3VJOF4ti3ep6JXqSgyzSGdv0h.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/KNIGHTFALL</externallink>
 <fanart>https://image.tmdb.org/t/p/original/aKYAuHyDIGnIAd35UAv1cpYWPWL.jpg</fanart>
@@ -1904,7 +1904,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]13 Reasons[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]13 Reasons[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nel144y4dIOdFFid6twN5mAX9Yd.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/13%20REASONS</externallink>
 <fanart>https://image.tmdb.org/t/p/original/3I3qqwRuNguPjZIA5Ud6zSv7nlE.jpg</fanart>
@@ -1917,7 +1917,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]O Último Guardião[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]O Último Guardião[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGTiSCbrusWyV4dzXQ1zu4AXZ2l.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OUltimoGuardiao</externallink>  
 <fanart>https://image.tmdb.org/t/p/original/4pYKilHt2XuDs1HYnxu2TKcWOE3.jpg</fanart>
@@ -1930,7 +1930,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Mr. Robot[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Mr. Robot[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Mr.%20Robot</externallink>
 <fanart>https://image.tmdb.org/t/p/original/4ceSkV7cmCon4exXaZwuhW1VdE0.jpg</fanart>
@@ -1943,7 +1943,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Homeland[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Homeland[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/HOMELAND</externallink>
 <fanart>https://image.tmdb.org/t/p/original/nuJa1trhB6ZumnC7xhhpBwWYoIn.jpg</fanart>
@@ -1956,7 +1956,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]the Walking Dead [COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]the Walking Dead [COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZMb3R3e5vqukPbeDMeyYGf2ZNG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BRAKING%20BAD</externallink>
 <fanart>https://image.tmdb.org/t/p/original/7r4FieFH6Eh6S55hi8c9LOiFENg.jpg</fanart>
@@ -1969,7 +1969,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]PRISON BREAK[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]PRISON BREAK[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7HFOunuAVpOdiBhXpjwRxIgK5y.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Prison%20Break</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg</fanart>
@@ -1982,7 +1982,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Perdidos no Espaço[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Perdidos no Espaço[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/83mK4CnvRPFSqcyO3s3lq6aDy1x.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Perdidos%20no%20Espa%C3%A7o</externallink>
 <fanart>https://image.tmdb.org/t/p/original/1H9CIc7oK6eRmbDmA7rkmGKFNsi.jpg</fanart>
@@ -1995,7 +1995,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]CARBON ALTERED[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]CARBON ALTERED[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CARBON%20ALTERED</externallink>
 <fanart>https://image.tmdb.org/t/p/original/xETbCo8l06poxFUgbtaUeKmLadz.jpg</fanart>
@@ -2007,7 +2007,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 <channel>
-<name>[B][COLOR goldenrod]DEMOLIDOR[/COLOR][/B]</name>
+<title>[B][COLOR goldenrod]DEMOLIDOR[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/DEMOLIDOR</externallink>
 <fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
@@ -2020,7 +2020,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]Better Call Saul [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Better Call Saul [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cU0kAjGjA6d2XjBzJMUIEVKiGDb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Better%20Call%20Saul</externallink>
 <fanart>https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg</fanart>
@@ -2033,7 +2033,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]CHERNOBYL[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]CHERNOBYL[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>   
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CHERNOBYL</externallink>
 <fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
@@ -2046,7 +2046,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <<channels>
 <channel>
-<name>[COLOR goldenrod]Filhos da Anarquia [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Filhos da Anarquia [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/npVw8FLsrr2Jhr3yUNKWJwO3S5V.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FILHOS%20DA%20ANARQUIA</externallink>
 <fanart>https://image.tmdb.org/t/p/original/sABDsMQOJyf6SCqnX1EnukF8aAq.jpg</fanart>
@@ -2059,7 +2059,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]S.W.A.T[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod]S.W.A.T[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HP1mebsgwMKqD3JtcMqxPwwVvK.jpg</thumbnail>   
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SWAT</externallink>
 <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
@@ -2072,7 +2072,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
  
 <channels>
 <channel>
-<name>[COLOR goldenrod]JUSTICEIRO [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]JUSTICEIRO [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2YM9zHF3tf2coi8t0UEzYrOHg8.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/JUSTICEIRO</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/2yfmJudf695JBUJRW7QJjVN1rg5.jpg</fanart>
@@ -2085,7 +2085,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Jornada nas Estrelas: Picard[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>   
+<title>[COLOR goldenrod]Jornada nas Estrelas: Picard[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>   
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/JORNADA%20NAS%20ESTRELAS%20PICARD</externallink>
 <fanart>https://image.tmdb.org/t/p/original/iYre7P2G1LAOcDMNrlq6xaPveJL.jpg</fanart>
@@ -2098,11 +2098,11 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Band of Brothers[COLOR forestgreen]😎Pikachu😎[/COLOR]</name> 
+<title>[COLOR goldenrod]Band of Brothers[COLOR forestgreen]😎Pikachu😎[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGzV187ogXzgJrvPRy2YPi29ofH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Band%20of%20Brothers</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/sKLRYY6jXHTMY5H94fEov98JgSc.jpg</fanart>
-<info>Extraído de entrevistas com sobreviventes da Easy Company, bem como de seus diários e cartas, o Band of Brothers narra as experiências desses homens, desde o treinamento de paraquedistas na Geórgia até o final da guerra. Como uma empresa de rifle de elite que salta de paraquedas na Normandia no início do dia D, participantes da Batalha do Bulge e testemunha dos horrores da guerra, os homens de Easy conheciam bravura e medo extraordinários extraordinários - e se tornaram coisas de lenda. Baseado no aclamado livro de Stephen E. Ambrose com o mesmo nome.<info>
+<info>Extraído de entrevistas com sobreviventes da Easy Company, bem como de seus diários e cartas, o Band of Brothers narra as experiências desses homens, desde o treititlento de paraquedistas na Geórgia até o final da guerra. Como uma empresa de rifle de elite que salta de paraquedas na Normandia no início do dia D, participantes da Batalha do Bulge e testemunha dos horrores da guerra, os homens de Easy conheciam bravura e medo extraordinários extraordinários - e se tornaram coisas de lenda. Baseado no aclamado livro de Stephen E. Ambrose com o mesmo nome.<info>
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>
 </channel>
 </<channels>
@@ -2111,7 +2111,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]THE PACIFIC [COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]THE PACIFIC [COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8O54Qj8PjmxBHFJi4RT72q0xNh5.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE%20PACIFIC</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/nWfpVLgioDXQsAbfL6UJxYz6d3d.jpg</fanart>
@@ -2124,7 +2124,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]Jack Ryan[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]Jack Ryan[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSziGhC2d8kHzOhLgSUZBJvXbjW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/JACK%20RYAN</externallink>
 <fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
@@ -2137,7 +2137,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]The Shield: Acima da Lei (2002)[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]The Shield: Acima da Lei (2002)[COLOR forestgreen]😎Pikachu😎[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfdZXqqlFsPUEfi6kWWWthxw7Nz.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE%20SHIELD%20ACIMA%20DA%20LEI</externallink>
 <fanart>https://image.tmdb.org/t/p/original/zhTLscdeHsgFxKDT6Sh6hJxwnQO.jpg</fanart>
@@ -2150,7 +2150,7 @@ COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]WESTWORLD 2016[COLOR forestgreen]😎Pikachu😎[/COLOR]</name>
+<title>[COLOR goldenrod]WESTWORLD 2016[COLOR forestgreen]😎Pikachu😎[/COLOR]</titleax>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuWBy38J3r5EIBOlkAbUsjsH2ri.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/WESTWORLD</externallink>
 <fanart>https://image.tmdb.org/t/p/original/uuwUpvS5F5a74ksnWgrwkYRG2LB.jpg</fanart>
