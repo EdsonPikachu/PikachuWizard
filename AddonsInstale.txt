@@ -5,19 +5,6 @@
       "type": "addon",
       "section": false,
       "plugin": "plugin.video.elementum",
-      "url": "hhttps://elementumorg.github.io/",
-      "repository": "",
-      "repositoryxml": "",
-      "repositoryurl": "",
-      "icon": "",
-      "adult": false,
-      "description": "Elementum Pikachu."
-    },
-    {
-      "name": "Elementum",
-      "type": "addon",
-      "section": false,
-      "plugin": "plugin.video.elementum",
       "url": "plugin.video.elementum-0.1.83.android_arm.zip",
       "repository": "",
       "repositoryxml": "",
@@ -25,12 +12,6 @@
       "icon": "",
       "adult": false,
       "description": "The official elementum add-on."
-    },
-    {
-      "name": "Example Section",
-      "section": true,
-      "url": "url.to.json",
-      "description": "An Example Section."
     }
   ]
 }
