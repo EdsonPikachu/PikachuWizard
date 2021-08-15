@@ -1,17 +1,17 @@
 {
   "addons": [
     {
-      "name": "YouTube w/o Repository",
+      "name": "Elementum",
       "type": "addon",
       "section": true,
       "plugin": "plugin.video.youtube",
-      "url": "http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/plugin.video.youtube-6.5.2.zip",
+      "url": "hhttps://elementumorg.github.io/",
       "repository": "",
       "repositoryxml": "",
       "repositoryurl": "",
       "icon": "",
       "adult": false,
-      "description": "The official YouTube add-on."
+      "description": "Elementum Pikachu."
     },
     {
       "name": "Spotify w/ Repository",
