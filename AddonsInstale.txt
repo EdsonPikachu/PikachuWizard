@@ -14,17 +14,17 @@
       "description": "Elementum Pikachu."
     },
     {
-      "name": "Spotify w/ Repository",
+      "name": "Elementum",
       "type": "addon",
       "section": false,
-      "plugin": "plugin.audio.spotify",
+      "plugin": "plugin.video.elementum",
       "url": "plugin.video.elementum-0.1.83.android_arm.zip",
-      "repository": "repository.marcelveldt",
-      "repositoryxml": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/addons.xml",
-      "repositoryurl": "https://kodi-community-addons.github.io/repository.marcelveldt/repository.marcelveldt/",
+      "repository": "",
+      "repositoryxml": "",
+      "repositoryurl": "",
       "icon": "",
       "adult": false,
-      "description": "The official Spotify add-on."
+      "description": "The official elementum add-on."
     },
     {
       "name": "Example Section",
