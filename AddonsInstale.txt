@@ -1,11 +1,11 @@
 {
   "addons": [
     {
-      "name": "Elementum",
+      "name": "Elementum Android Arm",
       "type": "addon",
       "section": false,
       "plugin": "plugin.video.elementum",
-      "url": "https://archive.org/download/plugin.video.elementum-0.1.83.android_arm/plugin.video.elementum-0.1.83.android_arm.zip",
+      "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.android_arm.zip?raw=true",
       "repository": "",
       "repositoryxml": "",
       "repositoryurl": "",
