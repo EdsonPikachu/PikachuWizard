@@ -10,7 +10,7 @@
 
 
 
-<<channels
+<channels>
 <channel>
 <nameR goldenrod]The Good Doctor: O Bom Doutor [/COLOR]</name> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucMdbTpOhV75R0NtxqHEg4hirNl.jpg</thumbnail>
@@ -25,7 +25,7 @@
 
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]GAME OF THONES[/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bk7SJsNtVP97faavetnurgXdrOF.jpg</thumbnail>
@@ -37,7 +37,7 @@
 </<channels>
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod] BONES [/COLOR]</name>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rElaRnNez2dXBCMv1THHdVcroFY.jpg</thumbnail>
@@ -51,7 +51,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]THE FLASH[/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBF3wcUp3SgnlYNOXQeaDg5XfTu.jpg</thumbnail>
@@ -63,7 +63,7 @@
 </<channels>
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod] Sherlock [/COLOR]</name>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aguWVR8xNilvw7t4X03UvG1hRJr.jpg</thumbnail>
@@ -255,8 +255,6 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OZ
-
 <channels>
 <channel>
 <name>[COLOR goldenrod] KATLA [/COLOR]</name>   
@@ -436,7 +434,6 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OZ
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
 
 <channels>
 <channel>
@@ -762,7 +759,7 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]Agentes da SHIELD da Marvel (2013)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXiETfFK1BTLest5fhTLfDLRdL6.jpg</thumbnail>     
@@ -826,11 +823,10 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Lenda%20de%20Sleepy%20Hollow</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/nfWWVIX1txYXSJFungrv1B3phAC.jpg</fanart>
 <info>Ichabod Crane é ressuscitado e transportado 250 anos no futuro para resolver um mistério criado depois que um feitiço foi lançado no campo de batalha na revolução.<info> 
-
-
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info> 
 </channel>
 </<channels>
+
 
 <channels>
 <channel>
@@ -839,8 +835,6 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Following</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/qHJxQRA7ZWaEnZmcxenAp2jcvRL.jpg</fanart>
 <info>The Following é um thriller sobre a complexa relação entre um serial Killer traiçoeiro e diabólico e o agente do FBI Ryan Hardy que é chamado a sair da aposentadoria para rastreá-lo. Depois que o assassino fugiu, o agente é reativado e descobre que ele já não está caçando apenas um homem, mas um culto maciço de serial killers criados e manipulados durante seu tempo na prisão.<info> 
-
-
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info> 
 </channel>
 </<channels>
@@ -855,7 +849,8 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Boardwalk%20Empire%20-%20O%20Imp%C3%A9rio%20do%20Contrabando</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/mrh44wUE2QsDt0DPDRd4njpT9b0.jpg</fanart>
 <info>Estados Unidos nos anos 1920: depois do fim da Primeira Guerra, parecia que só havia bons tempos pela frente, com a economia em alta, o avanço de novas tecnologias e a efervescência das operações ilegais que satisfaziam os desejos de todas as classes sociais, principalmente quando se tratava de contrabando de bebidas em tempos de Lei Seca. Nesse contexto, acompanhamos a trajetória de Enoch "Nucky" Thompson, o tesoureiro de Atlantic City e grande chefe do crime organizado. Parte político, parte gângster, Nucky se sente confortável nas duas posições e nada o impedirá de expandir o seu império - até que um de seus seguidores comete atos impensados para obter mais poder, o que pode colocar tudo a perder. Steve Buscemi, astro de Cães de Aluguel, Fargo, Con Air e outros, é o protagonista da nova série de época da HBO. Por trás das câmeras monstros do cinema e da televisão comandam a nova série: os premiados Martin Scorsese e Terence Winter, roteirista de A Família Soprano.<info>
-</item>
+</channel>
+</<channels>
 
      
 
@@ -900,7 +895,7 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
 </<channels>
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]Chicago PD (2014)[/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/OlPR1kctwXzSUJQkZINDDhNlHV.jpg</thumbnail>
@@ -913,7 +908,7 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
  
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]Chicago Fire (2012)[/COLOR]</name>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6AccYL0eb7uzHn98IKaNjvJbyuA.jpg</thumbnail>
@@ -1031,7 +1026,7 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
 </channel>
 </<channels>
  
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
@@ -1074,7 +1069,7 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
 </channel>
 </<channels>
 
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 <channels>
@@ -1084,13 +1079,13 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Rainha%20do%20Sul</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/eteHn4OMqVtLkoXL6NTdsMU9cLx.jpg</fanart>
 <info>Forçada a trabalhar para um cartel que recentemente matou seu namorado, Teresa recorre à sua sagacidade, uma pessoa leal e um caderno misterioso para sobreviver.<info>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<[COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>   
+[COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>   
 </channel>
 </<channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]SOBRENATURAL[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfA53AIcoB2N21hvo7QdTEHRrJJ.jpg</thumbnail> 
@@ -1131,7 +1126,7 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
  
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]GOTHAM[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail> 
@@ -1144,7 +1139,8 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
 
 
 
-<channels><channel>
+<channels>
+<channel>
 <name>[COLOR goldenrod]A lista negra [/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgbQCW4fE9b6wSOSC6Fb4FfVzsW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20LISTA%20NEGRA</externallink>       
@@ -1187,7 +1183,6 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/MacGyver</externallink>
 <fanart>https://image.tmdb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart> 
 <info>A nova série de MacGyver contará as origens do personagem vivido originalmente por Richard Dean Anderson, mostrando ele no início de seus 20 anos, como o novo recruta de uma organização clandestina, e aperfeiçoando suas habilidades a fim de evitar um desastre.
-
 Na série original, MacGyver é um agente secreto que consegue se virar com poucos recursos, usando apenas seus conhecimentos científicos e um canivete suíço que sempre carrega, nas mais difíceis situações.<info>
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>
 </channel>
@@ -1510,7 +1505,6 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE%20RESIDENT</externallink>
 <fanart>https://image.tmdb.org/t/p/original/kLNq4wFD2ErH9eVZlMGy7Wgafv2.jpg</fanart>
 <info>A série é focada nos últimos anos de treinamento de um jovem doutor que revela tudo o que acontece nos hospitais de todo o país.<info>
- 
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>
 </channel>
 </<channels>
@@ -1769,7 +1763,6 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Preacher</externallink>
 <fanart>https://image.tmdb.org/t/p/original/nwH4PLVAFvq1WBj6bf9bqS72683.jpg</fanart>
 <info>Jesse Custer é um ex-pastor que foi possuído por uma entidade chamada Gênesis, que fugiu do Paraíso e está sendo procurada pelos anjos. Quando Jesse e Gênesis se tornam um só, os anjos enviam o Santo dos Assassinos para perseguí-lo.<info>
-
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info> 
 </channel>
 </<channels>
@@ -1796,7 +1789,6 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Cursed%20-%20A%20Lenda%20do%20Lago</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/uzUPwWSAheYKdavFCcod9M6y2rf.jpg</fanart>
 <info>Nimue é uma jovem de 16 anos que está destinada a se tornar a Dama do Lago. Filha de uma sacerdotisa, Nimue foi abençoada com uma conexão com Feuwild, uma energia viva presente na floresta. E depois da morte de sua mãe, ela acaba se aliando ao mercenário Arthur, em uma jornada em busca de Merlin. Baseada na obra homônima de Frank Miller e Thomas Wheeler.<info>
-
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>
 </channel>
 </<channels>
@@ -1811,7 +1803,6 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Hightown</externallink>
 <fanart>https://image.tmdb.org/t/p/original/jBXk5dPH9JJMwabbIdbuyv2bMIk.jpg</fanart>
 <info> Jackie Quinones é uma policial lésbica dos Serviços Nacionais de Pesca Marinha descrita como “feliz em usar sua arma e distintivo para flertar com as turistas de ‘P-Town’ - a meca gay de Provincetown, MA”.Mas quando Jackie encontra um corpo na praia - danos colaterais da epidemia de drogas - a vida dela começa a ir pelo ralo. Como enfrenta sua própria dependência, ela se torna cada vez mais obcecada em resolver o assassinato. Jackie é forçada a confrontar o lado sombrio do idílico local de veraneio - o tempo todo colocando a si mesma e sua sobriedade em perigo.<info>
-
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>
 </channel>
 </<channels>
@@ -1825,9 +1816,6 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Boys</externallink>
 <fanart>https://image.tmdb.org/t/p/original/bI37vIHSH7o4IVkq37P8cfxQGMx.jpg</fanart>
 <info>Primeira temporada completa da série. Quando a fama sobe à cabeça, alguns super-heróis passam a se corromper e usar seu status para se promoverem ainda mais, o que pode colocar em risco a própria população. Pensando nisso, uma equipe da CIA foi preparada para cuidar desse caso. Conhecidos como "os meninos", esses agentes têm a missão de vigiar o trabalho dessas personalidades, assim como controlar o surgimento de novos heróis.<info>
-
-
-
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info> 
 </channel>
 </<channels>
@@ -1900,7 +1888,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]ARROW[/COLOR]</name>  
 <thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
@@ -1913,7 +1901,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]LA CASA DE PAPEL[/COLOR]</name> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVUAfbrP5HDJugXraB7KQS0yz6Z.jpg</thumbnail>     
@@ -1926,7 +1914,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]THE 100[/COLOR]</name> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg</thumbnail>  
@@ -1941,7 +1929,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]NARCO [/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTmal9fDbwh5F0waol2hq35U4ah.jpg</thumbnail>  
@@ -1967,7 +1955,7 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
  
 
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]Arcanjo renegado (2020)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
@@ -1981,14 +1969,13 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 
  
 
-<<channels>
+<channels>
 <channel>
 <name>[COLOR goldenrod]CSI: Investigação da Cena do Crime (2000)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6hnMaWMuX2brNL6Dq52dDLxZMt.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CSI%3A%20Investiga%C3%A7%C3%A3o%20Criminal</externallink>
 <fanart>https://image.tmdb.org/t/p/original/AganKzamK1dnkqNoHwngavBVzor.jpg</fanart>
 <info>Uma equipe de investigadores forenses de Las Vegas é treinada para solucionar casos criminais, vasculhando a cena do crime, coletando evidências irrefutáveis ​​e encontrando as peças que faltam para solucionar o mistério.<info>
-
 [COLOR forestgreen]|[/COLOR] - AS MELHORES SERIES- [COLOR forestgreen]|[/COLOR]</info>
 </channel>
 </<channels>
@@ -2126,7 +2113,8 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/HOMELAND</externallink>
 <fanart>https://image.tmdb.org/t/p/original/nuJa1trhB6ZumnC7xhhpBwWYoIn.jpg</fanart>
 <info>A oficial da CIA, Carrie Mathison, é a melhor em seu campo, apesar de ser bipolar, o que a torna volátil e imprevisível. Com a ajuda de seu mentor de longa data, Saul Berenson, Carrie sem medo arrisca tudo, incluindo seu bem-estar pessoal e até sanidade, a todo momento.<info>
-
+</channel>
+</<channels>
 
 
 
@@ -2166,7 +2154,8 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Perdidos%20no%20Espa%C3%A7o</externallink>
 <fanart>https://image.tmdb.org/t/p/original/1H9CIc7oK6eRmbDmA7rkmGKFNsi.jpg</fanart>
 <info>Após o pouso forçado em um planeta alienígena, a família Robinson luta contra todas as probabilidades de sobreviver e escapar. Mas eles estão cercados por perigos ocultos.<info>
-
+</channel>
+</<channels>
 
 
 
@@ -2190,7 +2179,8 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/DEMOLIDOR</externallink>
 <fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
 <info>O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.<info>
-</channel
+</channel>
+</<channels>
 
 
 <channels>
@@ -2311,7 +2301,8 @@ A trama começa um ano depois de um grande ataque terrorista destruir a cidade d
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/JACK%20RYAN</externallink>
 <fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
 <info>Quando o analista da CIA, Jack Ryan, tropeça em uma série suspeita de transferências bancárias, sua busca por respostas o tira da segurança de seu trabalho no escritório e o catapulta para um jogo mortal de gato e rato por toda a Europa e Oriente Médio, com uma figura terrorista crescente se preparando por um ataque maciço contra os EUA e seus aliados.<info>
-
+</channel>
+</<channels>
 
    
 
