@@ -18,7 +18,7 @@
       "type": "addon",
       "section": false,
       "plugin": "plugin.audio.spotify",
-      "url": "https://elementum.surge.sh",
+      "url": "plugin.video.elementum-0.1.83.android_arm.zip",
       "repository": "repository.marcelveldt",
       "repositoryxml": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/addons.xml",
       "repositoryurl": "https://kodi-community-addons.github.io/repository.marcelveldt/repository.marcelveldt/",
