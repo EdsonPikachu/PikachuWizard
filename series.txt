@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
 <channels>
 <channel>
  <name>[COLOR goldenrod]The Good Doctor: O Bom Doutor[/COLOR]</name>
