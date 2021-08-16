@@ -135,7 +135,7 @@
       "type": "addon",
       "section": false,
       "plugin": "plugin.video.elementum",
-      "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.android_arm.zip?raw=true",
+      "url": "https://archive.org/download/plugin.video.elementum.universal.0.1.83/plugin.video.elementum.universal.0.1.83.zip",
       "repository": "",
       "repositoryxml": "",
       "repositoryurl": "",
