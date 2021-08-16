@@ -6,7 +6,6 @@
       "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.android_arm.zip?raw=true",
-      "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.android_arm64.zip?raw=true",
       "repository": "",
       "repositoryxml": "",
       "repositoryurl": "",
