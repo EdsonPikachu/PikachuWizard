@@ -1,7 +1,7 @@
 {
   "addons": [
     {
-      "name": "Addons Elementum: Obs! Para Ativar Va Em Meus Addons. Addons De Video, Procure o Elementum, Va Nas Configuracoes e Ative...",
+      "name": "Addons Elementum: Obs Depois de instalar va! Para Ativar Va Em Meus Addons. Addons De Video, Procure o Elementum, Va Nas Configuracoes e Ative...",
       "section": true,
       "url": "url.to.json",
       "description": "Pikachu Uma Nova Era Kodi."
