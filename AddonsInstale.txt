@@ -1,11 +1,11 @@
 {
   "addons": [
     {
-      "name": "Addons Elementum: Obs Depois de instalar; Para Ativar Va Em Meus Addons (MESMA ABA ONDE SE INSTALA VIA ZIP). Addons De Video, Procure o Elementum, Va Nas Configuracoes e Ative...",
+      "name": "Addons Elementum: Obs Depois de instalar; Para Ativar Va Em Meus Addons (MESMA ABA ONDE SE INSTALA VIA ZIP). Addons De Video, Procure o Elementum, Va Nas Configuracoes e Ative.",
       "genre": "________________________________________________________________________________________________________________________________________",
       "type": "addon",
       "section": true,
-      "plugin": "plugin.video.elementum",
+      "plugin": "Leia a Instrucao Do Inicio.",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.android_arm.zip?raw=true",
       "repository": "",
       "repositoryxml": "",
