@@ -3,7 +3,7 @@
 <name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]TV AO VIVO[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/tvmeneu</externallink>
+<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/tvmeneu?raw=true</externallink>
 <fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
 <info>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen] PARA TODA FAMILIA   [/COLOR][/B]</info> 
 </channel></channels> 
@@ -13,7 +13,7 @@
 <name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]FIMES[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/filmeslancamentos</externallink>
+<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/filmeslancamentos?raw=true</externallink>
 <fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
 <info>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen] PARA TODA FAMILIA   [/COLOR][/B]</info> 
 </channel></channels> 
@@ -22,7 +22,7 @@
 <name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]SERIES[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/series</externallink>
+<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/series?raw=true</externallink>
 <fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
 <info>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen] PARA TODA FAMILIA   [/COLOR][/B]</info> 
 </channel></channels>
@@ -31,7 +31,7 @@
 <name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]DOCUMENTARIOS[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
-<externallink></externallink>
+<externallink>?raw=true</externallink>
 <fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
 <info>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen] PARA TODA FAMILIA   [/COLOR][/B]</info> 
 </channel></channels> 
