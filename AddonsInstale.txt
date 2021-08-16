@@ -1,12 +1,6 @@
 {
   "addons": [
     {
-      "name": "",
-      "section": true,
-      "url": "url.to.json",
-      
-    },
-    {
       "name": "Addons Elementum: Obs Depois de instalar; Para Ativar Va Em Meus Addons (MESMA ABA ONDE SE INSTALA VIA ZIP). Addons De Video, Procure o Elementum, Va Nas Configuracoes e Ative...",
       "genre": "________________________________________________________________________________________________________________________________________",
       "type": "addon",
