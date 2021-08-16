@@ -1,9 +1,24 @@
 {
   "addons": [
     {
-      "name": "Addons Elementum: Obs Depois de instalar; Para Ativar Va Em Meus "Addons" (MESMA ABA ONDE SE INSTALA VIA ZIP). Addons De Video, Procure o Elementum, Va Nas Configuracoes e Ative...",
+      "name": "",
       "section": true,
       "url": "url.to.json",
+      
+    },
+    {
+      "name": "Addons Elementum: Obs Depois de instalar; Para Ativar Va Em Meus Addons (MESMA ABA ONDE SE INSTALA VIA ZIP). Addons De Video, Procure o Elementum, Va Nas Configuracoes e Ative...",
+      "genre": "________________________________________________________________________________________________________________________________________",
+      "type": "addon",
+      "section": true,
+      "plugin": "plugin.video.elementum",
+      "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.android_arm.zip?raw=true",
+      "repository": "",
+      "repositoryxml": "",
+      "repositoryurl": "",
+      "icon": "https://i.imgur.com/RN7UEI4.jpg",
+      "fanart": "https://i.imgur.com/WQNErVg.jpeg",
+      "adult": false,
       "description": "Pikachu Uma Nova Era Kodi."
     },
     {
