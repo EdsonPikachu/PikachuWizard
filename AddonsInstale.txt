@@ -1,19 +1,6 @@
 {
   "addons": [
-    {
-      "name": "Addons Elementum: Obs Depois de instalar; Para Ativar Va Em Meus Addons (MESMA ABA ONDE SE INSTALA VIA ZIP). Addons De Video, Procure o Elementum, Va Nas Configuracoes e Ative.",
-      "type": "addon",
-      "section": true,
-      "plugin": "Leia a Instrucao Do Inicio.",
-      "url": "",
-      "repository": "",
-      "repositoryxml": "",
-      "repositoryurl": "",
-      "icon": "https://i.imgur.com/RN7UEI4.jpg",
-      "fanart": "https://i.imgur.com/WQNErVg.jpeg",
-      "adult": false,
-      "description": "Pikachu Uma Nova Era Kodi."
-    },
+   
     {
       "name": "Elementum Android Arm",
       "type": "addon",
