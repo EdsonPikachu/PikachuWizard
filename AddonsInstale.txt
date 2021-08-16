@@ -1,6 +1,12 @@
 {
   "addons": [
     {
+      "name": "Addons Elementum: Para Ativar Va Em Meus Addons. Addons De Video, Procure o Elementum, Va Nas Configuracoes e Ative...",
+      "section": true,
+      "url": "url.to.json",
+      "description": "Pikachu Uma Nova Era Kodi."
+    },
+    {
       "name": "Elementum Android Arm",
       "type": "addon",
       "section": true,
