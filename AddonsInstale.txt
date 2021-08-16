@@ -155,7 +155,7 @@
       "icon": "",
       "adult": false,
       "description": "The official elementum add-on."
-    },
+    }
     
   ]
 }
