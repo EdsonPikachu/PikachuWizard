@@ -9,7 +9,7 @@
       "repository": "",
       "repositoryxml": "",
       "repositoryurl": "",
-      "icon": "https://i.imgur.com/RN7UEI4.peg",
+      "icon": "https://i.imgur.com/RN7UEI4.png",
       "fanart": "https://i.imgur.com/WQNErVg.jpg",
       "adult": false,
       "description": "The official pikachu add-on."
