@@ -16,7 +16,7 @@
     {
       "name": "Elementum Android Arm64",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.android_arm64.zip?raw=true",
       "repository": "",
@@ -29,7 +29,7 @@
     {
       "name": "Elementum Android X86",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.android_x86.zip?raw=true",
       "repository": "",
@@ -42,7 +42,7 @@
     {
       "name": "Elementum Windows X86",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.windows_x86.zip?raw=true",
       "repository": "",
@@ -55,7 +55,7 @@
     {
       "name": "Elementum Windows X64",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.windows_x64.zip?raw=true",
       "repository": "",
@@ -68,7 +68,7 @@
     {
       "name": "Elementum Linux X86",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.linux_x86.zip?raw=true",
       "repository": "",
@@ -81,7 +81,7 @@
     {
       "name": "Elementum Linux X64",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.linux_x64.zip?raw=true",
       "repository": "",
@@ -94,7 +94,7 @@
     {
       "name": "Elementum Linux Armv7",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.linux_armv7.zip?raw=true",
       "repository": "",
@@ -107,7 +107,7 @@
     {
       "name": "Elementum Linux Armv6",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.linux_armv6.zip?raw=true",
       "repository": "",
@@ -120,7 +120,7 @@
     {
       "name": "Elementum Linux Arm64",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.linux_arm64.zip?raw=true",
       "repository": "",
@@ -133,7 +133,7 @@
     {
       "name": "Elementum Universal",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://archive.org/download/plugin.video.elementum.universal.0.1.83/plugin.video.elementum.universal.0.1.83.zip",
       "repository": "",
@@ -146,7 +146,7 @@
     {
       "name": "Elementum Bust",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/service-element-bust.lt2http-0.0.16.zip?raw=true",
       "repository": "",
