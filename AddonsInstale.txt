@@ -1,6 +1,5 @@
 {
   "addons": [
-   
     {
       "name": "Elementum Android Arm",
       "type": "addon",
