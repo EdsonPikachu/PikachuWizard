@@ -1,12 +1,3 @@
-*******************
-*******************
-<channels></channels><channel><name>[I][B][COLOR white]• [COLOR goldenrod]   Atypical (2017)[COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
-<genre>[B][COLOR gray]14, Drama, Comédia, 33m[/COLOR][/B]</genre>
-<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[B][I][COLOR forestgreen]Quando um adolescente com traços de autismo resolve arrumar uma namorada, sua busca por independência coloca a família toda em uma aventura de autodescoberta. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
-*******************
-*******************
-
 {
   "addons": [
     {
