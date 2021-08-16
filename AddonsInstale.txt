@@ -4,7 +4,7 @@
       "name": "Obs : Depois De Instalar O addon Ative Em: Meus Addons; Que Fica Na Mesma Aba De Onde Se Instala Addons Via Zip. Dai Voce Vai Em Addons De Video Procura Elementum Entra Nas Configuracoes e ativa.",
       "type": "addon",
       "section": false,
-      "plugin": "Leia As Informacoes Do Comeco.",
+      "plugin": "plugin.video.elementum",
       "url": "",
       "repository": "",
       "repositoryxml": "",
