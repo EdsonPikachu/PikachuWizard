@@ -1,7 +1,1 @@
-name="plugin.video.pikachu"
-section="no"
-url="https://github.com/cuspida/cuspida/blob/main/plugin.video.pikachu.zip?raw=true"
-icon="https://i.imgur.com/RN7UEI4.jpeg"
-fanart="https://i.imgur.com/WQNErVg.jpg"
-adult="no"
-description="Addon Oficial Pikachu"
+hddh
