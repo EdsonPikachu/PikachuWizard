@@ -3,7 +3,7 @@
     {
       "name": "Elementum Android Arm",
       "type": "addon",
-      "section": false,
+      "section": true,
       "plugin": "plugin.video.elementum",
       "url": "https://github.com/cuspida/cuspida/blob/main/plugin.video.elementum-0.1.83.android_arm.zip?raw=true",
       "repository": "",
