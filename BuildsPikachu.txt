@@ -4,7 +4,7 @@ zip="https://github.com/cuspida/cuspida/blob/main/plugin.program.Pikachu-Wizard.
 
 name="Pikachu Velozes Build"
 version="1.0"
-url="https://tinyurl.com/Pikachuvelozesbuild"
+url="https://tinyurl.com/pikadasgalaxias"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="19.1"
