@@ -1,6 +1,20 @@
 {
   "addons": [
     {
+      "name": "Ative o Addon em (Meus Addons)  Depois de Instalar",
+      "type": "addon",
+      "section": false,
+      "plugin": "plugin.video.pikachu",
+      "url": "http://",
+      "repository": "",
+      "repositoryxml": "",
+      "repositoryurl": "",
+      "icon": "https://i.imgur.com/RN7UEI4.jpeg",
+      "fanart": "https://i.imgur.com/WQNErVg.jpg",
+      "adult": false,
+      "description": "The official pikachu add-on."
+    },
+    {
       "name": "Addon Pikachu Oficial",
       "type": "addon",
       "section": false,
