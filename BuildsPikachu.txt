@@ -14,5 +14,5 @@ fanart="https://i.imgur.com/WQNErVg.jpg"
 preview="https://www.youtube.com/watch?v=djV11Xbc914"
 adult="no"
 info="http://your.info.url"
-description="Uma Buils Rapida e Funcional."
-
+description="Uma Build Rapida e Funcional."
+w
