@@ -4,7 +4,7 @@ zip="https://github.com/cuspida/cuspida/blob/main/plugin.program.Pikachu-Wizard.
 
 name="Velozes Build Pikachu"
 version="1.0"
-url="https://u.pcloud.link/publink/show?code=XZzTpKXZ2oD5yc1Vt85i6k5uB5tQVH5VqXIX"
+url="https://p-def4.pcloud.com/cBZah2OheZlVnAnCZZZAUxKv7Z2ZZ2zRZkZzbBfPZeRZhpZ4HZKVZW0ZcHZ7RZpHZGFZPpZMHZpVZcpZ0FZzTpKXZvrDmRUnKIR56ENSGPHBd4JRCM8Ny/Velozes%26Esquadrao.Build.zip"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="19.1"
