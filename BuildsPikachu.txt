@@ -1,6 +1,8 @@
 id="plugin.program.Pikachu-Wizaerd"
 version="1.0.0"
 zip="https://github.com/cuspida/cuspida/blob/main/plugin.program.Pikachu-Wizard.zip?raw=true"
+
+
 url="https://u.pcloud.link/publink/show?code=XZzTpKXZ2oD5yc1Vt85i6k5uB5tQVH5VqXIX"
 minor="http://"
 gui="http://your.guisettings.url/"
