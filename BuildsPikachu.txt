@@ -1,5 +1,5 @@
 id="plugin.program.Pikachu-Wizard"
-version="1.0.0"
+version="1.0"
 zip="https://github.com/cuspida/cuspida/blob/main/plugin.program.Pikachu-Wizard.zip?raw=true"
 
 name="Velozes Build Pikachu"
