@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/br.xml.gz"
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6e1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/a8esports_logo_dark.png",A8 Esports
-http://stitcher-ipv4.plex.tv/v1/stitch/embed/hls/channel/5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6e1
+https://provider-static.plex.tv/5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6e1
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png",AFV Español
 5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png",AFV Family
