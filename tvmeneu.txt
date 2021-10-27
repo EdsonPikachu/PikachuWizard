@@ -53,10 +53,10 @@
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 <channels><channel>
-<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]Lista M3u TV-Pbs 05[COLOR goldenrod] |[/COLOR][/B]</name>
+<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]Lista M3u TV-Plex 05[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/allPBSm3u8.txt?raw=true</externallink>
+<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/allPlexm3u8.txt?raw=true</externallink>
 <fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
 <info>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen] PARA TODA FAMILIA   [/COLOR][/B]</info> 
 </channel></channels> 
