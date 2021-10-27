@@ -20,10 +20,21 @@
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 <channels><channel>
-<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]Lista M3u 02[COLOR goldenrod] |[/COLOR][/B]</name>
+<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]Lista M3u Pluto-Brasil 02[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/plutom3u.txt?raw=true</externallink>
+<fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
+<info>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen] PARA TODA FAMILIA   [/COLOR][/B]</info> 
+</channel></channels> 
+😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
+😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
+😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
+<channels><channel>
+<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]Lista M3u Pluto-Completa 03[COLOR goldenrod] |[/COLOR][/B]</name>
+<genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
+<thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/plutofuulm3u.txt?raw=true</externallink>
 <fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
 <info>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen] PARA TODA FAMILIA   [/COLOR][/B]</info> 
 </channel></channels> 
