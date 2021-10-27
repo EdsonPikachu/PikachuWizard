@@ -12,7 +12,7 @@
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 <channels><channel>
-<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]Lista M3u kodi Radio 01[COLOR goldenrod] |[/COLOR][/B]</name>
+<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]Lista M3u kodi Radio 02[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/kodiradio02.m3u8.txt?raw=true</externallink>
