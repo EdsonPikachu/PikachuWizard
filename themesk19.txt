@@ -10,7 +10,7 @@ fanart="http://"
 preview="http://"
 adult="no"
 info="http://"
-description="======Djay Matrix THEMES 19======"
+description="======Pikachu Matrix THEMES 19======"
 
 name="Pikachu Grim Reaper Theme"
 version="1.0.0"
