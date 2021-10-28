@@ -48,7 +48,7 @@
 <name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]Lista M3u kodi Radio 05[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/koditv01.m3u8.txt?raw=true</externallink>
+<externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/kodiradio05.m3u8.txt?raw=true</externallink>
 <fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
 <info>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen] PARA TODA FAMILIA   [/COLOR][/B]</info> 
 </channel></channels> 
