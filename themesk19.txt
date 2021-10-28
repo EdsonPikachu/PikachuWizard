@@ -50,6 +50,107 @@ description="Pikachu Uma Nova Era Kodi ..."
 ************************************************************************************************************************
 ************************************************************************************************************************
 
+name="[B][COLOR goldenrod]😎😎 Pikachu-Builds Flecha Negra 19 [/B]😎😎"
+version=": Exclusiva"
+url="http://"
+minor="http://"
+gui="http://"
+kodi="19.2"
+theme="http://"
+icon="https://i.imgur.com/lOnHDqG.jpg"
+fanart="http://"
+preview="http://"
+adult="no"
+info="http://"
+description="======Pikachu Matrix 19======"
+
+************************************************************************************************************************
+************************************************************************************************************************
+
+😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
+😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
+************************************************************************************************************************
+************************************************************************************************************************
+
+name="Flecha Matrix"
+version="1.9"
+url="https://cld.pt/dl/download/39a5c0dc-7ae5-4779-a928-7bc7c59766ce/flecha.matrix.zip"
+minor="http://"
+gui="http://"
+kodi="19"
+theme="http://"
+icon="https://cld.pt/dl/download/9a8a75cf-fe7e-4b36-ab82-1eac5e030234/My%20Post%20%281%29.jpg"
+fanart="https://cld.pt/dl/download/9a8a75cf-fe7e-4b36-ab82-1eac5e030234/My%20Post%20%281%29.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="FlechaNegra build Matrix"
+
+name="Vintage Matrix"
+version="1.9"
+url="https://cld.pt/dl/download/15a9bf0f-de05-4480-8b69-ac85b2bf8759/vintage.matrix.zip"
+minor="http://"
+gui="http://"
+kodi="19"
+theme="http://"
+icon="https://cld.pt/dl/download/0ab6f3c4-5956-4759-aecb-111282c54e7e/My%20Post3.jpg"
+fanart="https://cld.pt/dl/download/0ab6f3c4-5956-4759-aecb-111282c54e7e/My%20Post3.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="Flecha Vintage Build Matrix"
+
+
+name="Trucks Matrix"
+version="1.9"
+url="https://cld.pt/dl/download/e6bde592-b816-436e-87e5-efb159aee35e/trucks.matrix.zip"
+minor="http://"
+gui="http://"
+kodi="19"
+theme="http://"
+icon="https://cld.pt/dl/download/62bae06f-9da3-4514-ad7a-675cd452dfcc/My%20Post%20%282%29.jpg"
+fanart="https://cld.pt/dl/download/62bae06f-9da3-4514-ad7a-675cd452dfcc/My%20Post%20%282%29.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="Flecha Trucks Build Matrix"
+
+name="Hulk Matrix"
+version="1.9"
+url="https://cld.pt/dl/download/147cead3-bfc4-43d7-84a0-3fa033366600/hulk.matrix.zip"
+minor="http://"
+gui="http://"
+kodi="19"
+theme="http://"
+icon="https://cld.pt/dl/download/54c44f2f-a008-41e9-a650-f1414a2c29e6/fanart.jpg"
+fanart="https://cld.pt/dl/download/54c44f2f-a008-41e9-a650-f1414a2c29e6/fanart.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="Hulk Build Matrix"
+
+name="Predator Matrix"
+version="1.9"
+url="https://cld.pt/dl/download/36a6923d-48f0-49e4-901a-58a87bb88b3d/predator.matrix.zip"
+minor="http://"
+gui="http://"
+kodi="19"
+theme="http://"
+icon="https://cld.pt/dl/download/0b28a2de-c860-4110-a4e9-98b0838ead3d/My%20Post4.jpg"
+fanart="https://cld.pt/dl/download/0b28a2de-c860-4110-a4e9-98b0838ead3d/My%20Post4.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="Predator Build Matrix"
+
+************************************************************************************************************************
+************************************************************************************************************************
+
+😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
+😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
+************************************************************************************************************************
+************************************************************************************************************************
+
 name="[B][COLOR goldenrod]😎😎 Pikachu-Builds Diggz 19 [/B]😎😎"
 version=": Exclusiva"
 url="http://"
