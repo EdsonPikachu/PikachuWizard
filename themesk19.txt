@@ -7,7 +7,7 @@
 ************************************************************************************************************************
 
 name="[B][COLOR goldenrod]😎😎 Pikachu-Builds Vikings 19 [/B]😎😎"
-version=""
+version="Exclusiva"
 url="http://"
 minor="http://"
 gui="http://"
@@ -51,7 +51,7 @@ description="Pikachu Uma Nova Era Kodi ..."
 ************************************************************************************************************************
 
 name="[B][COLOR goldenrod]😎😎 Pikachu-Builds Diggz 19 [/B]😎😎"
-version=""
+version="Exclusiva"
 url="http://"
 minor="http://"
 gui="http://"
@@ -224,7 +224,7 @@ description="A Personal build for a friend"
 ************************************************************************************************************************
 
 name="[B][COLOR goldenrod]😎😎 Pikachu-Builds Cman 19 [/B]😎😎"
-version=""
+version="Exclusiva"
 url="http://"
 minor="http://"
 gui="http://"
@@ -548,7 +548,7 @@ description="Mando Build by cMaN"
 ************************************************************************************************************************
 
 name="[B][COLOR goldenrod]😎😎 Pikachu-Builds Narcacist 19 [/B]😎😎"
-version=""
+version="Exclusiva"
 url="http://"
 minor="http://"
 gui="http://"
@@ -592,7 +592,7 @@ description="Diablo19 by Narcacist"
 ************************************************************************************************************************
 
 name="[B][COLOR goldenrod]😎😎 Pikachu-Builds Dead Man Walking 19 [/B]😎😎"
-version=""
+version="Exclusiva"
 url="http://"
 minor="http://"
 gui="http://"
@@ -720,7 +720,7 @@ description="Paw Patrol by Dead Man Walking Skin Djay"
 ************************************************************************************************************************
 
 name="[B][COLOR goldenrod]😎😎 Pikachu-Builds Stuart 19 [/B]😎😎"
-version=""
+version="Exclusiva"
 url="http://"
 minor="http://"
 gui="http://"
@@ -848,7 +848,7 @@ description="Steel K19 Build"
 ************************************************************************************************************************
 
 name="[B][COLOR goldenrod]😎😎 Pikachu-Builds Groguuu 19 [/B]😎😎"
-version=""
+version="Exclusiva"
 url="http://"
 minor="http://"
 gui="http://"
@@ -1032,7 +1032,7 @@ description="Groguuu Metropolis Build"
 ************************************************************************************************************************
 
 name="[B][COLOR goldenrod]😎😎 Pikachu-Builds Community 19 [/B]😎😎"
-version=""
+version="Exclusiva"
 url="http://"
 minor="http://"
 gui="http://"
@@ -1146,7 +1146,7 @@ description="Day of the Dead Build by Welshstr8edge"
 ************************************************************************************************************************
 
 name="[B][COLOR goldenrod]😎😎 Pikachu-Guidos Matrix THEMES 19 [/B]😎😎"
-version=""
+version="Exclusiva"
 url="http://"
 minor="http://"
 gui="http://"
@@ -1190,7 +1190,7 @@ description="Pikachu Uma Nova Era Kodi ..."
 ************************************************************************************************************************
 
 name="[B][COLOR goldenrod]😎😎 Pikachu-Cman Matrix THEMES 19 [/B] 😎😎"
-version=""
+version="Exclusiva"
 url="http://"
 minor="http://"
 gui="http://"
@@ -1304,7 +1304,7 @@ description="KODI MAN Build by KODI MAN"
 ************************************************************************************************************************
 
 name="[B][COLOR goldenrod]😎😎 Pikachu-Djay Matrix THEMES 19 [/B] 😎😎"
-version=""
+version="Exclusiva"
 url="http://"
 minor="http://"
 gui="http://"
