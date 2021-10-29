@@ -1,6 +1,6 @@
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 <channels><channel>
-<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]TV AO VIVO[COLOR goldenrod] |[/COLOR][/B]</name>
+<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]●TV AO VIVO[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/tvmeneu.txt?raw=true</externallink>
@@ -10,7 +10,7 @@
 
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 <channels><channel>
-<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]FIMES[COLOR goldenrod] |[/COLOR][/B]</name>
+<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]●FIMES[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/filmeslancamentos.txt?raw=true</externallink>
@@ -19,7 +19,7 @@
 </channel></channels> 
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 <channels><channel>
-<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]SERIES[COLOR goldenrod] |[/COLOR][/B]</name>
+<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]●SERIES[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/series.txt?raw=true</externallink>
@@ -28,7 +28,7 @@
 </channel></channels>
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 <channels><channel>
-<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]RADIOS[COLOR goldenrod] |[/COLOR][/B]</name>
+<name>[B][COLOR goldenrod]😎 PIKACHU 😎 [COLOR forestgreen]●RADIOS[COLOR goldenrod] |[/COLOR][/B]</name>
 <genre>[COLOR grey]-------------------------------------------------------[/COLOR]</genre>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/cuspida/cuspida/main/RadioMenu.txt?raw=true</externallink>
