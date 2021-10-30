@@ -1,7 +1,7 @@
  
   <item> 
 1   <title>[B][COLOR goldenrod] o corpo - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98b8f81b5e86fbdac4a19995698ac0b674e6e4a4&dn</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d4f47d7bc3205f1c49d20421f21f082c7695081&dn</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhNHCeJDFDaB00A46AoCw2mggdE.jpg</thumbnail>
 1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/wkvO1xFozZw7FDcZYpwL35PHXQz.jpg</fanart>
