@@ -1,3 +1,22 @@
+ <item> 
+1   <title>[B][COLOR goldenrod] Duna - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ADB76E281F8BEC27F44CD52D1B05247939675A73&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg</thumbnail>
+1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/eeijXm3553xvuFbkPFkDG6CLCbQ.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar.
+Titulo Original: Dune
+Ano de Lançamento: 2021
+Gênero: Ação, Aventura, Drama
+Formato: Mkv
+Qualidade: WEB-DL 1080p
+Idioma: Português, Inglês
+Legenda: Português
+Tamanho: 2.82 GB | 2.96 GB
+Duração: 2h 35 Min.
+Qualidade do Audio: 10 | PT-BR: 9,5
+Qualidade de Video: 10</item> 
+ 
  
   <item> 
 1   <title>[B][COLOR goldenrod] Venom: Tempo de Carnificina - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
