@@ -15,7 +15,7 @@ Legenda: Português
 Tamanho: 2.82 GB | 2.96 GB
 Duração: 2h 35 Min.
 Qualidade do Audio: 10 | PT-BR: 9,5
-Qualidade de Video: 10</item> 
+Qualidade de Video: 10</info></item> 
  
  
   <item> 
