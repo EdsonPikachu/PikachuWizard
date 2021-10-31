@@ -1,5 +1,5 @@
 <item> 
-1   <title>[B][COLOR blue] 007: Sem Tempo para Morrer - [COLOR red]😎 PIKACHU😎 [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>[B][COLOR goldenrod] 007: Sem Tempo para Morrer - [COLOR forestgreen]😎 PIKACHU😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67B02D9A55AD61BBE5FF17C56DC662E725A7B127&dn</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/original/luE0KG1rWfUptbgNtlNtL5sihyd.jpg</thumbnail>
 1   <genre>[B][COLOR gray]😎 PIKACHU😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -95,7 +95,7 @@
   </item> 
  
  <item> 
-1   <title>[B][COLOR blue] O Homem nas Trevas - [COLOR red]😎 PIKACHU😎 [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>[B][COLOR goldenrod] O Homem nas Trevas - [COLOR forestgreen]😎 PIKACHU😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:4dd1926b4c6a366a39a5e6751c7628c39572be03&dn</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/original/mfhzwHub5dgGvJGILj2yPhOIy8E.jpg</thumbnail>
 1   <genre>[B][COLOR gray]😎 PIKACHU😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
