@@ -1,58 +1,80 @@
 
-<item> 
-<title>[B][COLOR goldenrod] Infiltrado - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:urn:btih:urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32&dn</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ef2ozkE4AiWwRnyfc9s05sEtAIT.jpg</thumbnail>
-<genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-<fanart>https://www.themoviedb.org/t/p/original/bZcb6EOnt7rnU1SyLMwM2Wg8BLl.jpg</fanart>
-<info>[B][COLOR forestgreen] SINOPSE:Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.[/COLOR][/B]</info>
-</item> 
-
-<item> 
-<title>[B][COLOR goldenrod] A Maldição de Isabelle - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:urn:btih:urn:btih:f9b8751350ff09214976de5cf56747224bab359b&dn</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/j45giQ0qy2rnzPuVDfP13QYIydg.jpg</thumbnail>
-<genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-<fanart>https://www.themoviedb.org/t/p/original/qRdmRfkA5guOKvvDe9MhTxOIeTA.jpg</fanart>
-<info>[B][COLOR forestgreen] SINOPSE:O sonho de um jovem casal de começar uma família se quebra enquanto eles caem nas profundezas da paranóia e precisam lutar para sobreviver a uma presença maligna que não quer nada além de suas próprias vidas.[/COLOR][/B]</info>
-</item> 
-
-<item> 
-<title>[B][COLOR goldenrod] Dupla Explosiva 2 - E a Primeira-Dama do Crime - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:urn:btih:urn:btih:1b6dcd47455e57ef1df5cc26bb4eb4eaa6c51a0b&dn</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5GScRLhDfCYaC6RJCmyzPb3m5ne.jpg</thumbnail>
-<genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-<fanart>https://www.themoviedb.org/t/p/original/1TkU6gJNpNPZzZdQVvdJCTDi32f.jpg</fanart>
-<info>[B][COLOR forestgreen] SINOPSE:O casal estranho mais letal do mundo - o guarda-costas Michael Bryce e o assassino de aluguel Darius Kincaid - está de volta em outra missão com risco de vida. Ainda sem licença e sob escrutínio, Bryce é forçado a entrar em ação pela esposa ainda mais volátil de Darius, a infame vigarista internacional Sonia Kincaid. Enquanto Bryce é levado ao limite por seus dois protegidos mais perigosos, o trio se mete em uma trama global e logo descobre que eles são tudo o que se interpõe entre a Europa e um louco vingativo e poderoso.[/COLOR][/B]</info>
-</item> 
-
-<item> 
-<title>[B][COLOR goldenrod] Maligno - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:urn:btih:urn:btih:6a0632a93e3ff5b70785d5ea846606bb12118373&dn</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg</thumbnail>
-<genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-<fanart>https://www.themoviedb.org/t/p/original/h4LyqR5fyIIijluVdrOkYjMNeoN.jpg</fanart>
-<info>[B][COLOR forestgreen] SINOPSE:Madison passa a ter sonhos aterrorizantes de pessoas sendo brutalmente assassinadas e acaba descobrindo que, na verdade, são visões dos crimes enquanto acontecem. Aos poucos, ela percebe que esses assassinatos estão conectados a uma entidade do seu passado chamada Gabriel. Para impedir a criatura, Madison precisará investigar de onde ela surgiu e enfrentar seus traumas de infância.[/COLOR][/B]</info>
-</item> 
-
-<item> 
-<title>[B][COLOR goldenrod] Escape Room 2: Tensão Máxima - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:urn:btih:e649b56a6ec88f8c14d9ddd1810095abb544b801&dn</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eTacAZJRKwPBeXK5DgLsUTjM925.jpg</thumbnail>
-<genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-<fanart>https://www.themoviedb.org/t/p/original/dsdbViTNjLu4DbgkkYmuY4xDQ20.jpg</fanart>
-<info>[B][COLOR forestgreen] SINOPSE:Seis pessoas inconscientemente se encontram trancadas em outra série de salas de fuga, lentamente descobrindo o que têm em comum para sobreviver, enquanto descobrem todos os jogos que jogaram antes.[/COLOR][/B]</info>
-</item> 
-
-<item> 
-<title>[B][COLOR goldenrod] Duna - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ADB76E281F8BEC27F44CD52D1B05247939675A73&dn</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg</thumbnail>
-<genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-<fanart>https://www.themoviedb.org/t/p/original/eeijXm3553xvuFbkPFkDG6CLCbQ.jpg</fanart>
-<info>[B][COLOR forestgreen] SINOPSE:Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar.[/COLOR][/B]</info>
-</item> 
+    <item> 
+1   <title>[B][COLOR goldenrod] DUNA - [COLOR forestgreen]ADDON BXL [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60d424b314ef9555720d9e732459460605da9a66$nome=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa5d5296e69ea5f1a60a14a531b666be73d2e7bb$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d78443e84fef632effa68ddaded8422d9011867$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg</thumbnail>
+1   <genre>[B][COLOR gray] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/1httqnYN5eMIkuxibCkRzInUvoS.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Nesta viagem mítica e emocional, “Dune - Duna” conta a história de Paul Atreides, um jovem brilhante e talentoso com um grande destino para além da sua compreensão, que tem de viajar para o planeta mais perigoso do universo para garantir o futuro da sua família e do seu povo. Quando forças malévolas entram em conflito para obter uma quantidade exclusiva do recurso mais precioso do planeta – uma substância capaz de desbloquear o maior potencial da humanidade – apenas os que conquistam os seus medos conseguiram sobreviver.[COLOR forestgreen][/COLOR][/B]</info>	
+  </item> 
  
+    <item> 
+1   <title>[B][COLOR goldenrod] Peçanha Contra o Animal - [COLOR forestgreen]ADDON BXL [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27ZB5IKQRLK3SA3SDVADLTCWOPCLSNYJ</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nH0EycssY8aFJxElTsGSRirP9qr.jpg</thumbnail>
+1   <genre>[B][COLOR gray] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/odGMGig2OyrWd3Rb0Jo5bl8UDJ9.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE: Os jornais sensacionalistas começam a repercutir assassinatos em série na cidade de Nova Iguaçu, baixada fluminense. Com a missão de encontrar o primeiro serial killer da cidade, o bruto, estúpido e hilário sargento-tenente-major Peçanha e seus colegas da incorreta delegacia de Nova Iguaçu não pouparão métodos não convencionais para tentar segurar o emprego e prender o Animal. Uma missão que pode custar caro demais porque todos são suspeitos.[COLOR forestgreen][/COLOR][/B]</info>	
+  </item> 
+ 
+    <item> 
+1   <title>[B][COLOR goldenrod] Cry Macho - A forestgreenenção - [COLOR forestgreen]ADDON BXL [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee4a0809e3866e096fc86c9a78ef380d3cb60c81</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ei16H5IuCVt9pHYdQMkxOXeIkbp.jpg</thumbnail>
+1   <genre>[B][COLOR gray] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/pLYOULRNhajU3tV1OsqisjTpCnY.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:A estrela de rodeios e criador de cavalos, Mike Milo, aceita um trabalho para resgatar o filho do seu ex-patrão e, afastá-lo da sua mãe alcoólica. Atravessa o México e no seu regresso ao Texas, enfrenta uma viagem inesperadamente desafiante, durante a qual o cavaleiro cansado do mundo pode encontrar o seu próprio sentido de forestgreenenção, ao ensinar ao rapaz o que significa ser um bom homem.[COLOR forestgreen][/COLOR][/B]</info>	
+  </item> 
+ 
+    <item> 
+1   <title>[B][COLOR goldenrod]  A Batalha Esquecida - [COLOR forestgreen]ADDON BXL [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EDBMVLKRKWTSO6HFC7EEAFTCNRBJZGC6$nome=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z4UKAPHYL6DQ6LAWOFF7JAMO6OP7QJXG$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg</thumbnail>
+1   <genre>[B][COLOR gray] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/8h2Ok2eo4YrQLoDfsOZF3TM7aJp.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Três jovens no meio de uma guerra. Suas escolhas diferem, seu objetivo é o mesmo: liberdade. A Batalha Esquecida acompanha as histórias entrelaçadas de um piloto britânico, um garoto holandês lutando do lado alemão e um membro da resistência holandesa. Ambientado em torno da Batalha do Rio Escalda, suas escolhas diferem, mas o objetivo é o mesmo: a liberdade.[COLOR forestgreen][/COLOR][/B]</info>	
+  </item> 
+ 
+    <item> 
+1   <title>[B][COLOR goldenrod] Infiltrado - [COLOR forestgreen]ADDON BXL [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ef2ozkE4AiWwRnyfc9s05sEtAIT.jpg</thumbnail>
+1   <genre>[B][COLOR gray] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/bZcb6EOnt7rnU1SyLMwM2Wg8BLl.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.[COLOR forestgreen][/COLOR][/B]</info>	
+  </item> 
+ 
+    <item> 
+1   <title>[B][COLOR goldenrod] Dupla Explosiva 2 - E a Primeira-Dama do Crime - [COLOR forestgreen]ADDON BXL [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd1d1cc0789702438d34099f707e612c0dff6a64</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eXjqdCBFg4zjUnc1MbL55hlQmm0.jpg</thumbnail>
+1   <genre>[B][COLOR gray] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/cmquA5exHGsOfcVDrwitAN1EDmN.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:O casal estranho mais letal do mundo - o guarda-costas Michael Bryce e o assassino de aluguel Darius Kincaid - está de volta em outra missão com risco de vida. Ainda sem licença e sob escrutínio, Bryce é forçado a entrar em ação pela esposa ainda mais volátil de Darius, a infame vigarista internacional Sonia Kincaid. Enquanto Bryce é levado ao limite por seus dois protegidos mais perigosos, o trio se mete em uma trama global e logo descobre que eles são tudo o que se interpõe entre a Europa e um louco vingativo e poderoso.[COLOR forestgreen][/COLOR][/B]</info>	
+  </item> 
+ 
+    <item> 
+1   <title>[B][COLOR goldenrod] Free Guy: Assumindo o Controle - [COLOR forestgreen]ADDON BXL [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0707ad45dee40a0fcd4017a90cf600c9afd101cd$nome=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1163eec087017c2ca25f013b3fcae6366d75dcd$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg</thumbnail>
+1   <genre>[B][COLOR gray] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Um caixa de banco preso a uma entediante rotina tem sua vida virada de cabeça para baixo quando ele descobre que é personagem em um brutalmente realista vídeo game de mundo aberto. Agora ele precisa aceitar sua realidade e lidar com o fato de que é o único que pode salvar o mundo.[COLOR forestgreen][/COLOR][/B]</info>	
+  </item>  
+ 
+    <item> 
+1   <title>[B][COLOR goldenrod] Pegue a Bala - [COLOR forestgreen]ADDON BXL [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea1d2394f14a120ba3043397427059b1bfa6d6e8</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m3DUe1cpiBsLg0caIO2JDr7HK5Z.jpg</thumbnail>
+1   <genre>[B][COLOR gray] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/fQlfObqEH8Jam5WQrLUMngbEroZ.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE: Britt MacMasters, um marechal dos EUA que raramente os traz de volta com vida, volta para casa da trilha para descobrir que seu filho de 12 anos, Chad, foi sequestrado por bandidos Jed Blake e sua gangue. Com a ajuda do guia indiano, Chaska, junto com Clay Tucker, um deputado preconceituoso que não confia no guia, Britt parte para o perigoso território Sioux. Enquanto Jed atrai o marechal para sua emboscada mortal, ele descobre que o garoto cativo é um oponente formidável e escorregadio, com várias tentativas de fuga que retornam espancamentos violentos para Chad, e um galho de árvore inesperado cravado no olho de Jed. Furioso com a vingança e com a ameaça dos impiedosos guerreiros Sioux na curva, os ferimentos sangrentos de Jed o deixaram um homem desmoronando à beira da insanidade. Conforme o grupo de busca avança para o Deserto Vermelho, as visões racistas de Tucker em relação ao amigo indiano de Britt são profundamente desafiadas quando Chaska o salva de um perigo com uma faca de guerreiro Sioux. Com ambos os lados sucumbindo a ataques brutais e cabeças escalpeladas, Britt corre contra o tempo para enfrentar o bandido enlouquecido e salvar seu filho moribundo. Enquanto isso, mergulhando ainda mais na loucura e temendo que o marechal possa ter caído na armadilha dos guerreiros, Jed vira sua pistola para seu jovem prisioneiro para uma partida de “Catch the Bullet”. Antes que Chad possa responder, um Britt invisível responde: “Vou brincar com você.” Tremendo de prazer enlouquecido, Jed está cara a cara com seu inimigo.[COLOR forestgreen][/COLOR][/B]</info>	
+  </item>
  
   <item> 
 1   <title>[B][COLOR goldenrod] Venom: Tempo de Carnificina - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
