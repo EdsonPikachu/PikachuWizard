@@ -40,7 +40,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:urn:btih:e649b56a6ec88f8c14d9ddd1810095abb544b801&dn</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eTacAZJRKwPBeXK5DgLsUTjM925.jpg</thumbnail>
 <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-<fanart>0Q20.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/dsdbViTNjLu4DbgkkYmuY4xDQ20.jpg</fanart>
 <info>[B][COLOR forestgreen] SINOPSE:Seis pessoas inconscientemente se encontram trancadas em outra série de salas de fuga, lentamente descobrindo o que têm em comum para sobreviver, enquanto descobrem todos os jogos que jogaram antes.[/COLOR][/B]</info>
 </item> 
 
