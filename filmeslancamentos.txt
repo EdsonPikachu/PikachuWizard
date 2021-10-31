@@ -1,3 +1,49 @@
+
+<item> 
+<title>[B][COLOR goldenrod] Infiltrado - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:urn:btih:urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32&dn</link>
+<thumbnail>https://tinyurl.com/ytmmrppb</thumbnail>
+<genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+<fanart>https://tinyurl.com/2u5a3evr<fanart>
+<info>[B][COLOR forestgreen] SINOPSE:Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.[/COLOR][/B]</info>
+</item> 
+
+<item> 
+<title>[B][COLOR goldenrod] A Maldição de Isabelle - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:urn:btih:urn:btih:f9b8751350ff09214976de5cf56747224bab359b&dn</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j45giQ0qy2rnzPuVDfP13QYIydg.jpg</thumbnail>
+<genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+<fanart>https://www.themoviedb.org/t/p/original/qRdmRfkA5guOKvvDe9MhTxOIeTA.jpg<fanart>
+<info>[B][COLOR forestgreen] SINOPSE:O sonho de um jovem casal de começar uma família se quebra enquanto eles caem nas profundezas da paranóia e precisam lutar para sobreviver a uma presença maligna que não quer nada além de suas próprias vidas.[/COLOR][/B]</info>
+</item> 
+
+<item> 
+<title>[B][COLOR goldenrod] Dupla Explosiva 2 - E a Primeira-Dama do Crime - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:urn:btih:urn:btih:1b6dcd47455e57ef1df5cc26bb4eb4eaa6c51a0b&dn</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5GScRLhDfCYaC6RJCmyzPb3m5ne.jpg</thumbnail>
+<genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+<fanart>https://www.themoviedb.org/t/p/original/1TkU6gJNpNPZzZdQVvdJCTDi32f.jpg<fanart>
+<info>[B][COLOR forestgreen] SINOPSE:O casal estranho mais letal do mundo - o guarda-costas Michael Bryce e o assassino de aluguel Darius Kincaid - está de volta em outra missão com risco de vida. Ainda sem licença e sob escrutínio, Bryce é forçado a entrar em ação pela esposa ainda mais volátil de Darius, a infame vigarista internacional Sonia Kincaid. Enquanto Bryce é levado ao limite por seus dois protegidos mais perigosos, o trio se mete em uma trama global e logo descobre que eles são tudo o que se interpõe entre a Europa e um louco vingativo e poderoso.[/COLOR][/B]</info>
+</item> 
+
+<item> 
+<title>[B][COLOR goldenrod] Maligno - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:urn:btih:urn:btih:6a0632a93e3ff5b70785d5ea846606bb12118373&dn</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg</thumbnail>
+<genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+<fanart>https://www.themoviedb.org/t/p/original/h4LyqR5fyIIijluVdrOkYjMNeoN.jpg<fanart>
+<info>[B][COLOR forestgreen] SINOPSE:Madison passa a ter sonhos aterrorizantes de pessoas sendo brutalmente assassinadas e acaba descobrindo que, na verdade, são visões dos crimes enquanto acontecem. Aos poucos, ela percebe que esses assassinatos estão conectados a uma entidade do seu passado chamada Gabriel. Para impedir a criatura, Madison precisará investigar de onde ela surgiu e enfrentar seus traumas de infância.[/COLOR][/B]</info>
+</item> 
+
+<item> 
+<title>[B][COLOR goldenrod] Escape Room 2: Tensão Máxima - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:urn:btih:e649b56a6ec88f8c14d9ddd1810095abb544b801&dn</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eTacAZJRKwPBeXK5DgLsUTjM925.jpg</thumbnail>
+<genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+<fanart>https://www.themoviedb.org/t/p/original/dsdbViTNjLu4DbgkkYmuY4xDQ20.jpg/fanart>
+<info>[B][COLOR forestgreen] SINOPSE:Seis pessoas inconscientemente se encontram trancadas em outra série de salas de fuga, lentamente descobrindo o que têm em comum para sobreviver, enquanto descobrem todos os jogos que jogaram antes.[/COLOR][/B]</info>
+</item> 
+
 <item> 
 <title>[B][COLOR goldenrod] Duna - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ADB76E281F8BEC27F44CD52D1B05247939675A73&dn</link>
