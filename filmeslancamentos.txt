@@ -94,6 +94,16 @@
 1   <info>[B][COLOR forestgreen] SINOPSE:O relacionamento entre Eddie e Venom (Tom Hardy) está evoluindo. Buscando a melhor forma de lidar com a inevitável simbiose, esse dois lados descobrem como viver juntos e, de alguma forma, se tornarem melhores juntos do que separados.[/COLOR][/B]</info>	
   </item> 
  
+ <item> 
+1   <title>[B][COLOR blue] O Homem nas Trevas - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:4dd1926b4c6a366a39a5e6751c7628c39572be03&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/mfhzwHub5dgGvJGILj2yPhOIy8E.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/dUn7N9n50lcv9lAhU8cIEBHCsa4.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Norman Nordstrom se esconde há vários anos em uma cabana isolada. Morando com uma garota, ele recriou a família tirada dele por um motorista bêbado. A tranquila vida dos dois é arruinada quando indecentes a sequestram. Para salvá-la, Norman é forçado a usar seus instintos ainda mais sombrios e criativos.[/COLOR][/B]</info>	
+  </item> 
+ 
+ 
     <item> 
 1   <title>[B][COLOR goldenrod] Legado de mentiras - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65283C950DE9F7C9127C7B03F32D7973319E1024</link>
