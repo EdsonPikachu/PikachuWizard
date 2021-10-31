@@ -4,7 +4,8 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg</thumbnail>
 <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 <fanart>https://www.themoviedb.org/t/p/original/eeijXm3553xvuFbkPFkDG6CLCbQ.jpg</fanart>
-<info>[B][COLOR forestgreen] SINOPSE:Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar.[/COLOR][/B]</info></item> 
+<info>[B][COLOR forestgreen] SINOPSE:[/COLOR][/B]</info>
+</item> 
  
  
   <item> 
