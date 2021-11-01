@@ -7,7 +7,6 @@
 1   <info>[B][COLOR forestgreen] SINOPSE:NBond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.[/COLOR][/B]</info>	
   </item> 
  
-
     <item> 
 1   <title>[B][COLOR goldenrod] DUNA - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
@@ -274,6 +273,15 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 1   <fanart>https://www.themoviedb.org/t/p/original/wkvO1xFozZw7FDcZYpwL35PHXQz.jpg</fanart>
 1   <info>[B][COLOR forestgreen] SINOPSE:Um ex-agente do MI6 é trazido de volta ao mundo da espionagem e de altas apostas para descobrir a verdade chocante sobre as operações conduzidas por serviços secretos desconhecidos.[COLOR forestgreen][/COLOR][/B]</info>	
   </item> 
+ 
+ <item> 
+1   <title>[B][COLOR goldenrod] Conspiração Wander - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6630f0d41827f209c4f4bf7e0e6b4f34e4ee2a25&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/nhu9KUeSmyCwHXcMXRcKggwrUuu.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/wKTsWgnMgc7Q0NdtTmL4bwONC04.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Um investigador particular mentalmente instável é contratado para investigar uma morte suspeita na pequena cidade de Wander, ele se convence de que o caso está ligado a mesmo conspiração que causou a morte de sua filha.[/COLOR][/B]</info>	
+</item>
  
     <item> 
 1   <title>[B][COLOR goldenrod] Infinito - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
