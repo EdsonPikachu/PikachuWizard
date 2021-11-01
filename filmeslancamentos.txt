@@ -712,7 +712,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
    <item> 
 1   <title>[B][COLOR goldenrod] Relatos do Mundo - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f78916b59e0bfd34c87f286ffb0b56af22a9449</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cLqg9BjcecdzYGqURSdWgBUO3rX.jpg</thumbnail>
 1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -722,7 +721,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
   
    <item> 
 1   <title>[B][COLOR goldenrod] Abaixo de Zero - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98f1d9f14ad98983bf5719281815a810a2850839</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fciMWczNCEODy1EaII34BNbHdYA.jpg</thumbnail>
 1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -732,7 +730,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
     
    <item> 
 1   <title>[B][COLOR goldenrod] Justiça Brutal - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ad5e2aea2fd9dbb6e1380c0bb0e47b7e1aed2e7</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fbZi8jRG0tZTdXx3GH6CZthkFzc.jpg</thumbnail>
 1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -742,7 +739,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
    <item> 
 1   <title>[B][COLOR goldenrod] Apanhador de Pesadelos - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E8BDCCBE3BF98E2477E56E7861CBA4157001AB9C$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED6E08FA164172D0ABDC170F71BB5AEF22BCD9E6$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lEPlsJ8Tko01i1LLBSehVYJcWWU.jpg</thumbnail>
@@ -754,7 +750,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
    <item> 
 1   <title>[B][COLOR goldenrod] O Caçador de Recompensas  - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00b5d4f095d4b69ee6e61852a2f3ca4be1119021</title>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/td0uLMhr67ateeoUZRQZYIqzp2B.jpg</thumbnail>
 1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -765,7 +760,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
    <item> 
 1   <title>[B][COLOR goldenrod] Posto de Combate - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac485f2dd05ec1120be16302db28dd198fec58c8$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a2f3b2df4e66b41f9746788a600872588153f39$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b1LYcrHuYGUGFZwhOiAitapWHfl.jpg</thumbnail>
@@ -777,7 +771,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
    <item> 
 1   <title>[B][COLOR goldenrod] Destruição Final: O Último Refúgio - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc5bddb2e9e03ccb2dd18d38f6d35a40bec408b3$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b794e1ac9cbb0eb4e8387b909e60669044674c83$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJecw4UYpvTgKE2zS9le44Nwuag.jpg</thumbnail>
@@ -1582,7 +1575,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Invasão ao Serviço Secreto- [COLOR forestgreen](2019)[/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50f901fe557eb00ac15b150c636c5f4e4bb38b0d&dn=COMANDOTORRENTS.ORG%20-%20Invas%c3%a3o%20ao%20Servi%c3%a7o%20Secreto%202020%20%5b1080p-FULL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qinFqfMF2HrjplEK5uQliLyryAk.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7uCHvw3j0G5ns5X2rWuU1BXRmoJ.jpg</fanart>
 <info>Dedicado e sempre focado em seu trabalho, o agente do Serviço Secreto, Mike Banning vê sua vida mudar completamente da noite para o dia ao ser acusado de conspirar para o assassinato do presidente dos Estados Unidos. Quando percebe que todos estão atrás dele, Mike corre contra o tempo para descobrir o que realmente aconteceu enquanto foge de outros agentes.</info>
@@ -1591,7 +1583,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]A MULA- [COLOR forestgreen][/COLOR] - [COLOR goldenrod](4K)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4825E1981503AA927A17AC5D3AFF22D67146FD9C&&dn=%5bWWW.BLUDV.TV%5d%20A%20Mula%202019%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPfvkCBzB9JUsjbF7RBwt5VwzYJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mrgPeVDJEexgQ0UyqVyeJGvbefJ.jpg</fanart>
 <info>Um horticultor e veterano da Segunda Guerra Mundial de 90 anos é pego transportando uma quantidade de cocaína equivalente a $3 milhões de dólares para um quartel de drogas mexicano.</info>
@@ -1600,8 +1591,7 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Anna: O Perigo Tem Nome- [COLOR forestgreen][/COLOR] - [COLOR goldenrod](4K)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E43BBDA56CA309B2209AE3ACB509502660307C09&dn=%5bWWW.BLUDV.TV%5d%20Anna%20-%20O%20Perigo%20Tem%20Nome%202019%20%284K%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jQ5Appzv4gCZGK4OWN1DCoa5Pz1.jpg</fanart>
 <info>Por trás da beleza marcante de Anna Poliatova há um segforestgreeno que irá expor sua indestrutível força e habilidade para se tornar uma das assassinas mais temidas do mundo. Uma eletrizante e emocionante viagem repleta de energia, reviravoltas surpreendentes e ação de tirar o fôlego. ANNA apresenta Sasha Luss na personagem que dá nome ao filme e traz um elenco com várias estrelas, incluindo a vencedora do Oscar Helen Mirren, Cillian Murphy e Luke Evans.</info>
 </item>
@@ -1610,7 +1600,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Shaft (2019)- [COLOR forestgreen][/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e790daf2e76ea4cd939e09efa1132c775c221c47&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Shaft%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zV4IrBpC4efLSxqyDBaHsrHjXB8.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/103d4ObBCWbB6PtOOjZ7C1FSpVl.jpg</fanart>
 <info>Após a morte suspeita de um amigo, John Shaft Jr. (Jessie T. Usher) resolve pedir ajuda a seu pai, Shaft (Samuel L. Jackson), para resolver o caso. Ele aceita deixar a aposentadoria para iniciar a investigação, apesar dos problemas existentes com o próprio filho.</info>
@@ -1619,7 +1608,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Fúria em Alto Mar - [COLOR forestgreen][/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bea4902cd98b96d595cf2dd226a90e4370ab139&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Furia%20em%20Alto%20Mar%202019%20%5bBluRay%5d%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6li27rYziFeLlOjQh0oPN8ZRCZD.jpg</fanart>
 <info>Dono de métodos próprios nada convencionais, o Comandante Joe Glass (Gerard Butler) é o responsável por liderar uma delicada missão pelas perigosas águas do Mar de Barents à bordo do submarino USS Arkansas. O objetivo da tarefa é monitorar a atividade militar russa na região após outro submarino americano desaparecer naqueles mares. Enquanto isso, a situação política na região se acirra ao ponto de Glass ter de tomar decisões cruciais para impedir que se deflagre um conflito de escala continental entre as duas potências.</info>
@@ -1628,7 +1616,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]O Pforestgreenador (2018)- [COLOR forestgreen][/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30BE069B0CA5B66860BC692084C7815A918F931C&dn=%7bWWW.BLUDV.TV%7d%20O%20Pforestgreenador%202018%20%281080p%29%20FULL%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</title>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhIqpoYFnAra24si0JqFEWdiPOX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zGHdS1eLaU5wdYCJ6vY9QfQGCTo.jpg</fanart>
 <info>Uma perseguição entre naves alienígenas traz à Terra um novo pforestgreenador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna (Boyd Holbrook), um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett (Olivia Munn) é então chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido cativeiro. Ao tentar recapturá-lo Casey encontra McKenna, que está em um ônibus repleto de ex-militares com problemas. Juntos, eles buscam um meio de sobreviver e, ao mesmo tempo, proteger o pequeno Rory (Jacob Tremblay), filho de McKenna, que está com os artefatos alienígenas pegos pelo pai.</info>
@@ -1637,7 +1624,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Missão: Impossível - Efeito Fallout (2018)- [COLOR forestgreen][/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2046c580fa824c5e43c635816c4674cd2d52baa9&dn=Mission.Impossible.Fallout.2018.IMAX.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT</title>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i273qQubszItr11lQNMFWnYP4J1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/a9fRqsl6P27qxbDSb4pBXNv9Fwl.jpg</fanart>
 <info>Obrigado a unir forças com o agente especial da CIA August Walker (Henry Cavill) para mais uma missão impossível, Ethan Hunt (Tom Cruise) se vê novamente cara a cara com Solomon Lane (Sean Harris) e preso numa teia que envolve velhos conhecidos movidos por interesses misteriosos e contatos de moral duvidosa. Atormentado por decisões do passado que retornam para assombrá-lo, Hunt precisa se resolver com seus sentimentos e impedir que uma catastrófica explosão ocorra, no que conta com a ajuda dos amigos de IMF.</info>
@@ -1646,7 +1632,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]A Múmia - [COLOR forestgreen][/COLOR] - [COLOR goldenrod](4K)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93d46f3dfd93cc5f50c21b0e90849e04076d2e65&dn=The+Mummy+2017+2160p+4K+Ultra+HD+BluRay+HDR+x265+NIMA4K+Dual&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5TC6gKrmtnoGE3c3lHeNPevkn4Z.jpg</fanart>
 <info>Nas profundezas do deserto, uma antiga rainha, cujo destino foi injustamente lhe tirado está mumificada. Apesar de sepultada em sua cripta, ela desperta nos dias atuais. Com uma maldade acumulada ao longo dos anos, ela espalha terror desde as areais do Oriente Médio até os becos de Londres.</info>
@@ -1657,7 +1642,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Hitman: Agente 47 (2015)- [COLOR forestgreen][/COLOR] - [COLOR goldenrod](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:548D2F2A2DA20EA3A76CA6FBAB48FAE7EE9508F3&dn=Hitman.Agente.47.2015.1080p.BluRay.DUAL-RAPIDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>  
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/haw5Uz30g5nUJfHlzpJIhMQQE7q.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yRtZmZa2bmDYaOKygG7IaroSXwg.jpg</fanart>
 <info>Agente 47 é um assassino de elite geneticamente modificado criado para ser a máquina de matar perfeita. Ele precisa caçar uma mega operação que pretende usar o segforestgreeno de sua criação para a formação de um exército imbátivel. Ao juntar forças com uma misteriosa jovem, que pode ser o diferencial para o sucesso da missão, ele vai descobrir segforestgreenos de sua origem em uma batalha épica contra seu maior inimigo.</link>
@@ -1666,7 +1650,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Midway - Batalha em Alto Mar - [COLOR forestgreen][/COLOR] - [COLOR goldenrod](4K)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:384474102bab411d0d4a1e9d6fb42583f31a1a0a&dn=LAPUMiA.Org%20-%20Midway%20-%20Batalha%20em%20Alto%20Mar%202020%20%5b2160p-4K%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2x8lIh0olfwqe5Jbwsw4Ojc5ie.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4rEiz5E3LjxtFa7GYUXJDdiuOBE.jpg</fanart>
 <info>Batalha em Alto Mar, retrata os acontecimentos da Batalha de Midway, confronto entre as forças americanas e a Marinha Imperial Japonesa, que marcou um ponto de virada fundamental na Guerra do Pacífico, seis meses depois do ataque a Pearl Harbor. O filme se baseia em fatos históricos para contar a trajetória de líderes e soldados que usaram instinto e coragem para superar as adversidades e se manterem vivos durante a guerra no meio do maior oceano do planeta.</info>
@@ -1693,7 +1676,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Assassino à Preço Fixo 2 A Ressurreição 2017- [COLOR forestgreen][/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBB52AA513BDBC8C25FC87ECA074CEA56E889921&dn=Assassino%20%c3%a0%20Pre%c3%a7o%20Fixo%202%20-%20A%20Ressurrei%c3%a7%c3%a3o%202017%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNdYyWMMpEHWsMALjko1QCpAZVM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4aYpuwBwDsPlVYjUZBT9aB1g0Df.jpg</fanart>
 <info>Arthur Bishop (Jason Statham) é obrigado a reativar seu lado criminoso quando o amor de sua vida é sequestrado. Na mão do inimigo, ele é forçado a viajar pelo mundo para completar três impossíveis assassinatos e fazer o que sabe melhor: fingir que foram acidentes.</info>
@@ -1703,7 +1685,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]A Grande Muralha - [COLOR forestgreen](2016)[/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F8E4996BCD1E58AF357C8D6EB5EBE185CA5B3F7&dn=A%20Grande%20Muralha%202017%20%281080p%29%20FULL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVcQ5fk2HEZJk2guPVYTxSmP0dX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rym1ecQJVj1NhZnigRePtiusorF.jpg</fanart>
 <info>No século XV, William (Matt Damon) e Tovar (Pedro Pascal) são dois mercenários em busca de “pó negro” (pólvora). Depois de escaparem do ataque de uma criatura misteriosa, eles se encontram, acidentalmente, aos pés da Grande Muralha. Lá, eles acabam aprisionados pelos guerreiros chineses, que estão na iminência de sofrerem um ataque. Reza a lenda que, a cada 60 anos, uma horda de monstros tenta transpassar a barreira, para se agoldenrodntar dos humanos que vivem do outro lado.</info>
@@ -1714,7 +1695,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Dupla Explosiva - [COLOR forestgreen](2017)[/COLOR] - [COLOR goldenrod][FULLHD][/COLOR][/B] </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1D590A749CC28E797D8CA6A0671A750F91E96776&dn=Dupla%20Explosiva%202017%20%281080p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oogzn0EmTSkR2x3Khw7Muswwcpk.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg</fanart>
 <info>O principal guarda-costas do mundo (Ryan Reynolds) possui um novo cliente: um assassino de aluguel (Samuel L. Jackson) que precisa testemunhar na Corte Internacional de Justiça. Por anos eles estavam em lados opostos de um tiro, mas agora eles estão presos juntos. Eles precisam colocar as diferenças de lado para chegarem ao julgamento a tempo.</info>
@@ -1761,7 +1741,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Covil de ladrões - [COLOR forestgreen](2018)[/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7764e74d669d8c9cf4ebb8505f5370ee5b5accc&dn=Covil%20de%20Ladr%C3%B5es%202018%20%5bBluRay%5d%20%5b1080p%5d%20%5bDUAL%5d%20COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfybH6GbGFw1F9bcETe2yu25mIE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg</fanart>
 <info>Uma saga criminosa que segue a vida de uma unidade de elite do Departamento do Xerife do Condado de LA e a mais bem-sucedida equipe de assalto a banco do estado, enquanto os bandidos planejam um assalto aparentemente impossível ao Federal Reserve Bank.</info>
@@ -1779,7 +1758,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]QUEIMA DE ARQUIVO- [COLOR forestgreen](1996)[/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16AA5E8EBC6AB50F931B68D3C270C5E0BA37C419&dn=Queima%20de%20Arquivo%20%e2%80%93%201996%20%e2%80%93%20Trial%20%c3%81udio%20%e2%80%93%20Bluray%201080p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/44MkE7h2Yx7QTN5uTCmx9Qo5Bzp.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/svVxwLIBvjGG4DsUtQW6irzOFyk.jpg</fanart>
 <info>O Marshall dos EUA John Kruger apaga a identidade das pessoas inscritas no Programa de Proteção a Testemunhas. Sua tarefa atual é proteger Lee Cullen, que descobriu evidências de que o fabricante de armas para o qual trabalha está vendendo para grupos terroristas. Quando Kruger descobre que há um agente corrupto dentro do programa, ele deve proteger sua própria vida enquanto tenta proteger a de Lee.</info>
@@ -1788,7 +1766,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod] PAUL O ALIEN- [COLOR forestgreen](2011)[/COLOR] - [COLOR goldenrod](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FA4D7289E599DF68154EC119CF6030B8B85C931&dn=Paul.O.Alien.Fugitivo.2011.720p.Dublado-&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>  
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q1ELHhEL9JQoYKT6ODlaDJ0fiKN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3naNiVY02NwVd364wRD3y00y618.jpg</fanart>
 <info>Nos últimos 60 anos, um espertinho de viagens espaciais chamado Paul foi preso em uma base militar ultrassecreta, aconselhando líderes mundiais sobre sua espécie. Mas quando ele se preocupa, ele perdeu sua utilidade e a mesa de dissecação está se aproximando desconfortavelmente, Paul escapa no primeiro trailer que passa por seu complexo na Área 51. Felizmente, ele contém os dois terráqueos com maior probabilidade de resgatar e abrigar um alienígena. a corrida.</info>
@@ -1807,7 +1784,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]O PAGAMENTO - [COLOR forestgreen] (2003)[/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e23e5d3f20439b01aa3f06c51c2aee61d4b6862&dn=O%20Pagamento%202003%205.1%20(1080p-FULL)%20LAPUMiA&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>  
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8d6VZvqRqTPKGA074BfZiOGGw94.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1myK4jxF6V8piJJ7eep1RI6gi0t.jpg</fanart>
 <info>Michael Jennings é um gênio contratado - e pago generosamente - por empresas de alta tecnologia para trabalhar em projetos altamente sensíveis, após os quais sua memória de curto prazo é apagada e, portanto, ele é incapaz de violar a segurança. Mas, no final de um emprego de três anos, ele disse que não está recebendo um salário e recebe um envelope misterioso. Nele há pistas que ele deve reunir para descobrir por que não foi pago - e por que agora está em água quente.</info>
@@ -1816,7 +1792,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]GUERRA MUNDIAL Z- [COLOR forestgreen](2013)[/COLOR] - [COLOR goldenrod](4K)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62BB046F02D21816624C6ADC045E553A9A3741CA&dn=Guerra%20Mundial%20Z%20%284k%29%20%28TORRENTUS%20FILMES%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>  
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5HImW2XT2oN001IzZ4aw2IOLC4j.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/upsk7nfUjf8ZSYuokwa5U5YXERm.jpg</fanart>
 <info>A vida do ex-investigador das Nações Unidas Gerry Lane e sua família parece contente. De repente, o mundo é atormentado por uma infecção misteriosa que transforma populações humanas inteiras em zumbis irracionais e irritantes. Depois de escapar do caos, Lane é persuadido a ir em uma missão para investigar esta doença. O que se segue é uma jornada perigosa ao forestgreenor do mundo, onde Lane deve enfrentar perigos terríveis e longas chances de encontrar respostas antes que a civilização humana caia.</info>
@@ -1825,7 +1800,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]A última coisa que ele queria - [COLOR forestgreen](2020)[/COLOR] - [COLOR goldenrod](4K)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8A422B868BDF8842F947999E93B0C505DC6D2F25&dn=A.Ultima.Coisa.que.Ele.Queria.2020.2160p.NF.WEB-DL.DDP5.1.HEVC-Murphy</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gItrnbEbMBbUrdIkFz8kgS2gkt.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cGUxPXVZF5n5P09dnlhWC8bLVp7.jpg</fanart>
 <info>Na virada do caso Irã-Contra, Elena McMahon, uma jornalista investigadora destemida que cobre a campanha presidencial dos EUA em 1984, se coloca em perigo quando abandona a tarefa que lhe foi designada para cumprir o último desejo de seu pai doente, um homem misterioso. cujas atividades passadas ela mal conhece ...</info>
@@ -1834,7 +1808,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Eu sou a lenda - [COLOR forestgreen](2007)[/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7EBB18788ADAEA8F111249BF9E0E5C64D48E3084&dn=Eu%20Sou%20a%20Lenda%202008%20Vers%c3%a3o%20de%20Cinema%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mREiLDSS61oCZdD4QpK1VRVdgH8.jpg</fanart>
 <info>Robert Neville é um cientista que não conseguiu impedir a propagação do terrível vírus que era incurável e produzido pelo homem. Imune, Neville agora é o último sobrevivente humano no que resta da cidade de Nova York e talvez do mundo. Por três anos, Neville enviou fielmente diariamente mensagens de rádio, desesperadas para encontrar outros sobreviventes que possam estar por aí. Mas ele não está sozinho.</info>
@@ -1852,7 +1825,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod] MIB HOMENS DE PRETO 2- [COLOR forestgreen](2002)[/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:719e2f826cfb53199d0a790a40b3465d7cf0acc9&dn=MIB+-+Homens+de+Preto+II+%282002%29+Bluray+1080p+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>  
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1zoknLsDO3M3aYLzfs3wIvXDTfC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wVOjEflPlJLhj3j9LHc15kqt5wi.jpg</fanart>
 <info>Kay e Jay se reúnem para fornecer a nossa melhor, última e única linha de defesa contra uma sedutora sinistra que nivela o desafio mais difícil da declaração de missão do MIB - protegendo a Terra da escória do universo. Faz quatro anos que os agentes que procuram extraterrestres evitaram um desastre intergaláctico de proporções épicas. Agora é uma corrida contra o relógio, pois Jay deve convencer Kay - que não apenas não tem absolutamente nenhuma memória do tempo gasto com o MIB, mas também é a única pessoa viva que tem a experiência necessária para salvar a galáxia - a se reunir com o MIB antes a terra se submete à destruição final.</info>
@@ -1861,7 +1833,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Van Helsing  - [COLOR forestgreen](2004)[/COLOR] - [COLOR goldenrod](4K)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49CAF509BF02E5C6C9D07CDAEAC15CB2726697B6&dn=Van%20Helsing%20-%20O%20Ca%c3%a7ador%20de%20Monstros%20%282014%29%205.1%20Dual%20%c3%81udio%20UHD%204K%20HDR%20By-LuanHarper&tr=udp%3a%2f%2ftracker.vanitycore.co%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.vanitycore.co%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2finferno.demonoid.pw%3a3418%2fannounce&tr=udp%3a%2f%2fbt.xxx-tracker.com%3a2710%2fannounce&tr=http%3a%2f%2ftracker.electro-torrent.pl%3a80%2fannounce&tr=http%3a%2f%2ftracker.city9x.com%3a2710%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=http%3a%2f%2fretracker.mgts.by%3a80%2fannounce</link>  
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xHODMX07bHTMBdzoCDCIllKtMb2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/d72ROyJqXQtw2OupW0l15eicRAF.jpg</fanart>
 <info>O famoso matador de monstros Gabriel Van Helsing é enviado para a Transilvânia para ajudar o último da linhagem Valerious a derrotar o Conde Drácula. Anna Valerious revela que Drácula formou uma aliança profana com o monstro do Dr. Frankenstein e está determinado a exigir uma maldição secular sobre sua família.</info>
@@ -1870,7 +1841,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Fique Rico ou Morra Tentando   - [COLOR forestgreen](2005)[/COLOR] - [COLOR goldenrod](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4752b6afad7381e101bc8ebd6a428e4587a58a8&dn=Fique+Rico+ou+Morra+Tentando+%282006%29+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</title>  
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7vacxd6cqA29FR84bjososPSmeg.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vUJMZ30G1xdYjUOfQZP6VUvA4jg.jpg</fanart>
 <info>Um conto de um traficante de drogas da cidade que se afasta do crime para perseguir sua paixão, o rap.</info>
@@ -1879,7 +1849,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Sem Escala - [COLOR forestgreen] (2014)[/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df681e7f8e9214b2d224e4af87549f253c359e07&dn=Sem+Escalas+%282014%29+BluRay+1080p+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>  
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dcPPIL1Go1awFFxlcB29qqwiynz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yRCluwOeIOofHC6s1cTBU0pKX88.jpg</fanart>
 <info>Bill Marks é um veterano queimado do serviço Air Marshals. Ele vê a tarefa não como um dever de salvar vidas, mas como um trabalho de mesa no céu. No entanto, o voo de hoje não será uma viagem de rotina. Logo na viagem transatlântica de Nova York a Londres, ele recebe uma série de mensagens de texto misteriosas ordenando que o governo transfira US $ 150 milhões em uma conta secreta, ou um passageiro morrerá a cada 20 minutos.</info>
@@ -1890,9 +1859,8 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 <item>
 <title>[B][COLOR goldenrod]Preto e azul - [COLOR forestgreen](2020)[/COLOR] - [COLOR goldenrod](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82bae20cb0854676ce509eae539094619cb10ace&dn=COMANDO.TO%20-%20Cores%20da%20Justi%c3%a7a%202020%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>  
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/mEtEjV7Adn9rXbZQe5ZEtJBaP8M.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/ySSs4jfpF8ZTfAJrxmg1pWhPdn8.jpg</fanart>
 <info>Um thriller de ação em ritmo acelerado sobre um policial novato que, inadvertidamente, captura o assassinato de um jovem traficante de drogas em sua câmera corporal. Depois de perceber que o assassinato foi cometido por policiais corruptos, ela se une à única pessoa de sua comunidade que está disposta a ajudá-la enquanto tenta escapar dos criminosos por vingança e da polícia que está desesperada para destruir as imagens incriminatórias.</info>
 </item>
 
