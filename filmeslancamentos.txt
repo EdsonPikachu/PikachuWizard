@@ -184,7 +184,8 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 1   <fanart>https://www.themoviedb.org/t/p/original/dUn7N9n50lcv9lAhU8cIEBHCsa4.jpg</fanart>
 1   <info>[B][COLOR forestgreen] SINOPSE:Norman Nordstrom se esconde há vários anos em uma cabana isolada. Morando com uma garota, ele recriou a família tirada dele por um motorista bêbado. A tranquila vida dos dois é arruinada quando indecentes a sequestram. Para salvá-la, Norman é forçado a usar seus instintos ainda mais sombrios e criativos.[/COLOR][/B]</info>	
   </item> 
- 
+  
+ <item>
  1   <title>[B][COLOR goldenrod] Batman: O Longo Dia das Bruxas – Parte 2 - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58eb8e1753c50177c340019c6aeaa6f1365dba56&dn</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/original/9aU7b0dBctae0aLRYy6joj467zV.jpg</thumbnail>
@@ -212,17 +213,8 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 </item>
 
 <item> 
-1   <title>[B][COLOR goldenrod] Tempo - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D20AF9D576649ED6BC526A782C0E906344D59854&dn</link>
-1   <thumbnail>https://www.themoviedb.org/t/p/original/czVBkHRaZu8rOnCNTd0t7EHYj97.jpg</thumbnail>
-1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://www.themoviedb.org/t/p/original/iTgM25ftE7YtFgZwUZupVp8A61S.jpg</fanart>
-1   <info>[B][COLOR forestgreen] SINOPSE:Tempo acompanha uma família durante uma viagem para uma ilha tropical. Quando chegam em uma praia deserta, algo estranho começa a acontecer: todos passam a envelhecer rapidamente, anos inteiros passam em questão de minutos. Eles, então, precisam descobrir o que está acontecendo antes que suas vidas sejam encurtadas drasticamente.[/COLOR][/B]</info>	
-</item>
-
-<item> 
 1   <title>[B][COLOR goldenrod] A Lenda de Candyman - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81e5ad3fe1afe97337804b92ab1ac4cd1a595539&dn</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/original/51Zvpg2kAIrzPdsQcIWojJhEhyS.jpg</thumbnail>
 1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/5WPKkfVcMtQ0YOvSovbmxvNq3i1.jpg</fanart>
@@ -231,7 +223,7 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
 <item> 
 1   <title>[B][COLOR goldenrod] Refém Rebelde - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c58f5681e25d0ba4fe0fc41810821e9abc919356&dn</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81e5ad3fe1afe97337804b92ab1ac4cd1a595539&dn</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/original/61hoGhY0khqOolZyfxqv4zrde8M.jpg</thumbnail>
 1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/uZDE9VnKFnIPmWriMjnp82bH9S8.jpg</fanart>
@@ -239,8 +231,17 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 </item>
 
 <item> 
+1   <title>[B][COLOR goldenrod] Espiral: O Legado de Jogos Mortais - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c58f5681e25d0ba4fe0fc41810821e9abc919356&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/kJbWyGjBpMa1HXTEPlKfdeed5OD.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/g15PR8eQV9DehSWlagvdnJZqoRq.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Sob o comando do veterano da polícia Marcus, o detetive Ezekiel "Zeke" Banks se une ao seu parceiro novato Willem para desvendar uma série de assassinatos terríveis que estão acontecendo na cidade. Durante as investigações, Zeke acaba se envolvendo no mórbido jogo do assassino.[/COLOR][/B]</info>	
+</item>
+
+<item> 
 1   <title>[B][COLOR goldenrod] Amizade de Férias - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51798160ec680613e18fee561cdd0fbc691c0554&dn</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:3ea8942ed25b194e7e2ca32f024c6b819b254fa8&dn</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/original/2IOAGHxkLSDTfdoCxqNiO1pVi4m.jpg</thumbnail>
 1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/o0UGl6icA4DbhmDNgdZ5AWvuTtM.jpg</fanart>
@@ -249,7 +250,7 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
 <item> 
 1   <title>[B][COLOR goldenrod] Cidade de Mentiras - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ea8942ed25b194e7e2ca32f024c6b819b254fa8&dn</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da5525c8e031ab545f7052e4686ce33fd355af1f&dn</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/original/uf3iHkDrkyXeB63wPHilp99r3Hi.jpg</thumbnail>
 1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/cI9fRbR6mzj51QZJsiIzXZT81TX.jpg</fanart>
@@ -258,7 +259,7 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
 <item> 
 1   <title>[B][COLOR goldenrod] O Espião Inglês - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bc70d30c2957239e1680a288287e063baf65088&dn</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da5525c8e031ab545f7052e4686ce33fd355af1f&dn</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/original/et0OqqfYINGCFB76YTmdinuuGTn.jpg</thumbnail>
 1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/3pIqd1hgZ2xqzWEyiYp4blqE9Fi.jpg</fanart>
@@ -267,7 +268,7 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
  
     <item> 
 1   <title>[B][COLOR goldenrod] Legado de mentiras - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65283C950DE9F7C9127C7B03F32D7973319E1024</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65283C950DE9F7C9127C7B03F32D7973319E1024&dn</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhNHCeJDFDaB00A46AoCw2mggdE.jpg</thumbnail>
 1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/wkvO1xFozZw7FDcZYpwL35PHXQz.jpg</fanart>
