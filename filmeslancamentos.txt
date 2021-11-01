@@ -1,3 +1,14 @@
+
+<item> 
+1   <title>[B][COLOR goldenrod] Teste - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>http://s3.eu-central-1.wasabisys.com/mirror.backup5/utf8/saidai/dub/635012.mp4</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/luE0KG1rWfUptbgNtlNtL5sihyd.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/lir6WyT5O7bwW8DVjKZPjY62nsG.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:NBond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.[/COLOR][/B]</info>	
+  </item>
+
+
 <item> 
 1   <title>[B][COLOR goldenrod] 007: Sem Tempo para Morrer - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67B02D9A55AD61BBE5FF17C56DC662E725A7B127&dn</link>
