@@ -185,6 +185,85 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 1   <info>[B][COLOR forestgreen] SINOPSE:Norman Nordstrom se esconde há vários anos em uma cabana isolada. Morando com uma garota, ele recriou a família tirada dele por um motorista bêbado. A tranquila vida dos dois é arruinada quando indecentes a sequestram. Para salvá-la, Norman é forçado a usar seus instintos ainda mais sombrios e criativos.[/COLOR][/B]</info>	
   </item> 
  
+ 1   <title>[B][COLOR goldenrod] Batman: O Longo Dia das Bruxas – Parte 2 - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58eb8e1753c50177c340019c6aeaa6f1365dba56&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/9aU7b0dBctae0aLRYy6joj467zV.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/j14Z0pP7tpuHZlVBSuUL7tq2SGb.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:O assassino conhecido como Holiday continua a perseguir a família do crime Falcone, enquanto uma nova classe de criminosos fantasiados sobe em Gotham City. Batman suspeita que um ex-aliado pode ser o assassino em série.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Mortal Kombat Legends: Batalha dos Reinos - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee8888ec04081ec90ce7f538a32b3500e5970eec&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/oB9emhSxRD2DUAiqQ8c90pxQeD6.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/dssCw0mUmD4EriUmkwB3PnsGu4q.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Os heróis de Earthrealm devem viajar para Outworld e lutar pela sobrevivência de sua terra natal, invadida pelas forças do malvado senhor da guerra Shao Kahn, no torneio para encerrar todos os torneios: o Mortal Kombat final.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Shang-Chi e a Lenda dos Dez Anéis - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1250317890F41719CA76E676BA3F7231AB53F2&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/ArrOBeio968bUuUOtEpKa1teIh4.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/cinER0ESG0eJ49kXlExM0MEWGxW.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Tempo - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D20AF9D576649ED6BC526A782C0E906344D59854&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/czVBkHRaZu8rOnCNTd0t7EHYj97.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/iTgM25ftE7YtFgZwUZupVp8A61S.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Tempo acompanha uma família durante uma viagem para uma ilha tropical. Quando chegam em uma praia deserta, algo estranho começa a acontecer: todos passam a envelhecer rapidamente, anos inteiros passam em questão de minutos. Eles, então, precisam descobrir o que está acontecendo antes que suas vidas sejam encurtadas drasticamente.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] A Lenda de Candyman - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81e5ad3fe1afe97337804b92ab1ac4cd1a595539&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/51Zvpg2kAIrzPdsQcIWojJhEhyS.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/5WPKkfVcMtQ0YOvSovbmxvNq3i1.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Em um bairro pobre de Chicago, a lenda de um espírito assassino conhecido como Candyman (Yahya Abdul-Mateen II) assolou a população anos atrás. Agora, o local foi renovado e é lar de cidadãos de alta classe. Quando o espírito retorna, os novos habitantes também serão obrigados a enfrentar a ira de Candyman.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Refém Rebelde - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c58f5681e25d0ba4fe0fc41810821e9abc919356&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/61hoGhY0khqOolZyfxqv4zrde8M.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/uZDE9VnKFnIPmWriMjnp82bH9S8.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Pai solteiro e ex-fuzileiro naval Kyle Snowden, em uma parada de rotina para seu trabalho na Child Protective Services, Kyle se encontra e um grupo de clientes inocentes presos dentro da loja de seu padrasto.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Amizade de Férias - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51798160ec680613e18fee561cdd0fbc691c0554&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/2IOAGHxkLSDTfdoCxqNiO1pVi4m.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/o0UGl6icA4DbhmDNgdZ5AWvuTtM.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Os corretos Marcus e Emily fazem amizade com os caçadores de aventuras Ron e Kyla em um resort no México. Vivendo o momento, Marcus e Emily curtem uma semana de louca diversão e devassidão com essa nova "amizade de férias". Meses após a temporada de subversão, Marcus e Emily ficam apavorados quando Ron e Kyla aparecem, sem terem sido convidados, em seu casamento.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Cidade de Mentiras - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ea8942ed25b194e7e2ca32f024c6b819b254fa8&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/uf3iHkDrkyXeB63wPHilp99r3Hi.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/cI9fRbR6mzj51QZJsiIzXZT81TX.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Russell Poole é um detetive da polícia de Los Angeles incumbido de resolver um dos casos mais emblemáticos de violência dos Estados Unidos: a morte dos famosos rappers Notorious B.I.G. e Tupac Shakur. Em meio às investigações, ele terá de lidar ainda com toda a antiga rivalidade entre a Costa Oeste e a Costa Leste em relação ao gênero musical.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] O Espião Inglês - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bc70d30c2957239e1680a288287e063baf65088&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/et0OqqfYINGCFB76YTmdinuuGTn.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/3pIqd1hgZ2xqzWEyiYp4blqE9Fi.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Durante a Guerra Fria, diversos civis atuaram como espiões para impedir o avanço soviético no mundo. Greville Wynne, um engenheiro elétrico britânico, foi um desses homens recrutados pelo Serviço de Inteligência Militar Britânico, O MI5. Através de informações cruciais obtidas por uma de suas fontes, Wynne conseguiu determinar o fim da Crise dos Mísseis de Cuba, em 1962.[/COLOR][/B]</info>	
+</item>
  
     <item> 
 1   <title>[B][COLOR goldenrod] Legado de mentiras - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
