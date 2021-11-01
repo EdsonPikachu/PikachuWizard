@@ -977,17 +977,15 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
   <item> 
 1   <title>[B][COLOR goldenrod] O Cobrador de Dívidas 2- [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16e76a9ba7f8b2b368f1ef4b382ed9b0f04be5bb&dn=COMOEUBAIXO.COM.-VERSAO-FULL-HD-.MKV.LAPUMiA.Org%20-%20O.Cobrador.de.Dividas.2.2020.1080p.BluRay.x264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcWNH4CLkQV5RSwKmpObmXmOklJ.jpg</thumbnail>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/dcWNH4CLkQV5RSwKmpObmXmOklJ.jpg</thumbnail>
 1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/vXUX7Qi4rtOh2TxqA1eB2CU6QAo.jpg</fanart>
+1   <fanart>https://www.themoviedb.org/t/p/original/vXUX7Qi4rtOh2TxqA1eB2CU6QAo.jpg</fanart>
 1   <info>[B][COLOR forestgreen] SINOPSE:[COLOR forestgreen]Com Scott Adkins. Dois cobradores de dívidas acabam envolvidos em uma situação extremamente perigosa ao perseguir dois bandidos enquanto fogem de um vingativo traficante.[/COLOR][/B]</info>	
   </item>
 
   <item> 
 1   <title>[B][COLOR goldenrod] A forestgreenenção - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df4d65ab4ee1d5980f4ca78c2dfac355901274ac$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56dfd7a8e6d14270d2fedf667f4c13fad93309a4$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/epbyGz8drJMTL2f8absrO1RHH6G.jpg</thumbnail>
@@ -999,7 +997,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
   <item> 
 1   <title>[B][COLOR goldenrod] Borat - Fita de Cinema Seguinte - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:559B82451A3945D1958B91FDB06A1352471CE6A6</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4ciG34AaQLfk38ltBGMDdxLeF5.jpg</thumbnail>
 1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -1010,18 +1007,16 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
 <item> 
 1   <title>[B][COLOR goldenrod] Agente Infiltrada - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bce87f1744cf7ec7012ccd5932e056c6e4d94a28</link>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PpgvIQlaYLL3HSNwidsppnpf3A.jpg</thumbnail>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/7PpgvIQlaYLL3HSNwidsppnpf3A.jpg</thumbnail>
 1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/p7b1IEXvtuYMZwDJSAIYFW7GbWn.jpg</fanart>
+1   <fanart>https://www.themoviedb.org/t/p/original/p7b1IEXvtuYMZwDJSAIYFW7GbWn.jpg</fanart>
 1   <info>[B][COLOR forestgreen] SINOPSE:[COLOR forestgreen]Rachel (Diane Kruger) é uma espiã da Mossad, Serviço de Inteligência Nacional de Israel. Após o funeral de seu pai, ela desaparece misteriosamente. A única pista sobre o seu paradeiro é uma ligação criptografada feita ao seu antigo mensageiro na Alemanha, Thomas (Martin Freeman). Ele é convocado para retornar à Israel a fim de descobrir a localização da ex-parceira, ao mesmo tempo em que precisa frear o programa nuclear do iraniano.[/COLOR][/B]</info>	
   </item>
   
 
 <item> 
 1   <title>[B][COLOR goldenrod] Os Irmãos Sisters - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:576cc11ebeff90f5cea386a9101b014e783c24a9&dn=COMOEUBAIXO.COM.-VERSAO-FULL-HD-.MKV.LAPUMiA.Org%20-%20Os.Irmaos.Sisters.2018.1080p.BluRay.x264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$name=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2050257e5c3e59c6b7dcf99c245fb5224706dbb&dn=COMOEUBAIXO.COM.-VERSAO-5.1-.MKV.LAPUMiA.Org%20-%20Os.Irmaos.Sisters.2018.1080p.BluRay.x264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:791907d975c8dc91209f63b4c5c3c14d490ddbd2&dn=COMOEUBAIXO.COM.-VERSAO-5.1-.MKV.LAPUMiA.Org%20-%20Os.Irmaos.Sisters.2018.720p.BluRay.x264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
@@ -1033,7 +1028,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
 <item> 
 1   <title>[B][COLOR goldenrod] A Última Jornada - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec9ca2f6c5a4f0f84c93be5e4a1ca6c86d17165d</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7s53hE2y44OIwpITPkcGBp2qet.jpg</thumbnail>
 1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -1043,7 +1037,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
 <item> 
 1   <title>[B][COLOR goldenrod] Manual de Caça a Monstros - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd1e8c7a7eca81596b6c40f79563f0c7086ea422</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEKwyhgdAfw41zcMc9VAuKOdNN8.jpg</thumbnail>
 1   <genre>[B][COLOR gray] 😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -1053,7 +1046,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
 
 <item> 
 1   <title>[B][COLOR goldenrod] Attraction 2: A Invasão - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4abe2a9f48ff1259397029d5d6a5118f2c07f477&dn=COMOEUBAIXO.COM..BLURAY.MKV.COMANDO.TO%20-%20Attraction%202%20-%20Invas%c3%a3o%202020%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a5b9aff3c0b43caadbff4b12afdbb8f0521c72d&dn=COMOEUBAIXO.COM..BLURAY.MKV.COMANDO.TO%20-%20Attraction%202%20-%20Invas%c3%a3o%202020%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT6jdeKbBlGHpkFbWF7HZNv7rUB.jpg</thumbnail>
@@ -1064,7 +1056,6 @@ inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]<
   
   <item> 
 1   <title>[B][COLOR goldenrod] Adeus - [COLOR forestgreen]😎Pikachu😎 [COLOR goldenrod](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ba38a8d5bfedeb5fa8cd5f704bb1fbf501aefa7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb6b47c6090b6da0e90117076074a316c53dd4$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWX7PHjRwSPk0zwWg2SykH1QrMl.jpg</thumbnail>
