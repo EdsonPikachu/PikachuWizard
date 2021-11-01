@@ -93,7 +93,89 @@
 1   <fanart>https://www.themoviedb.org/t/p/original/lNyLSOKMMeUPr1RsL4KcRuIXwHt.jpg</fanart>
 1   <info>[B][COLOR forestgreen] SINOPSE:O relacionamento entre Eddie e Venom (Tom Hardy) está evoluindo. Buscando a melhor forma de lidar com a inevitável simbiose, esse dois lados descobrem como viver juntos e, de alguma forma, se tornarem melhores juntos do que separados.[/COLOR][/B]</info>	
   </item> 
- 
+
+<item> 
+1   <title>[B][COLOR goldenrod] Caminhos da Memória - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4cc6315c0476984027647a8e9ed0eab581919e1&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/aef6dMfVJ5eVogGQbvtaKDcB43K.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/8yhWlFcJ8zCqjfCvLy3lWFuawR1.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:O filme segue Nick Bannister, um investigador particular da mente, enquanto ele tenta ajudar os clientes a acessar memórias perdidas. Depois que um desses clientes, Mae, desaparece, Bannister descobre uma conspiração violenta.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Iniciação - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21b268c8a0dc63f01e0e9867a2f227b457a76f43&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/oSUF0nLwVnjZN03zD2eF3WbbTRi.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/4qdalDaJDy6LSBNapxmCc4Wvpls.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Quando o atleta prodígio da Universidade Whiton é assassinado, o evento desencadeia uma série de ataques na redes sociais, forçando os alunos a descobrirem a verdade por trás dos segredos da escola e o terrível significado por trás de um ponto de exclamação.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Sem Retorno - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a11f1281b245514325a32237098b35c95cca167b&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/oeBBSOTYn04fLkLtQkpEseLHGEm.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Prisioneiros russos estão sendo escoltados até um campo de prisioneiros de Stalag por um grupo de soldados alemães. Suas histórias de vida se desenrolam e quando os russos escapam e lutam por suas vidas atrás das linhas inimigas, alguns de seus captores começam a questionar se eles estão do lado certo.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Invasão Cósmica - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7eccd8c6dae595cf58915bd7aefc55d434845e5&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/v5Jodmj8equxBklBlhZMHJtkp5J.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/umAoDwLZMBrYeCDfbJYFRMuXWAr.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Sete soldados desonestos lançam um ataque preventivo contra uma civilização alienígena recém-descoberta na esperança de acabar com uma guerra interestelar antes de começar.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Pixie - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e026c1f36266f68c2652b49dabc0db60e50a67cd&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/nyFHl2BWixlLGHjXEoOKROWwOmy.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/zl2a9bCUScdEW417tcGsfqC9kTn.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:A animada e perspicaz Pixie convence dois amigos ingênuos que salvam sua vida em uma aventura louca e perigosa que
+inclui um corpo no porta-malas e drogas roubadas no banco de trás.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Alucinação Fatal - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96e41faea4b3d9ed85f64d06dbaf1c75ac23ffdc&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/uepZFvwNfgawIKozRaePYke16x0.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/jc64XQudNeNsQbSwb1XtpY9ujxl.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Quinze anos após cometer um crime, uma mulher recebe alta do hospital psiquiátrico e tenta se libertar do espírito maligno que continua a atormentá-la.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] A Menina Que Matou os Pais - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acae619253da455531310a320e6e32ab264a02b9&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/rARhJwdW2cAeh8tgdc7WZqs2nZ1.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/6RSmdzLx5Y975kKREVfa1KdCYMS.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Apresenta a visão de Daniel Cravinhos sobre os acontecimentos que levaram à morte do casal Richthofen, pais da sua então namorada Suzane von Richthofen. Um drama de crime real sobre um dos casos de assassinato mais chocantes do Brasil.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] O Menino Que Matou Meus Pais - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c71c93fede54efb88caca9e0a44e20ab5ea89f9&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/rZDEY4IztUVky6hEjGFfqKE4hiu.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/h5CgKFEvFEcexzOr9KrgcUsrTj6.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Apresenta a visão de Suzane von Richthofen sobre os acontecimentos que levaram à morte dos seus pais. Um drama de crime real sobre um dos casos de assassinato mais chocantes do Brasil.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR goldenrod] Sou Vingança - Retaliação - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66312ef9649aa8b72cb76cc0df8dc09d59865cee&dn</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/rZDEY4IztUVky6hEjGFfqKE4hiu.jpg</thumbnail>
+1   <genre>[B][COLOR gray]😎Pikachu😎 O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/9bn60BiyiQFfnkLvRPZsVsOfl4v.jpg</fanart>
+1   <info>[B][COLOR forestgreen] SINOPSE:Quando o veterano soldado das forças especiais John Gold é encarregado de transportar Sean Teague, um homem que traiu seu esquadrão em uma missão suicida no Leste Europeu alguns anos atrás até uma prisão militar, um franco-atirador obcecado em matar Teague e uma equipe de resgaste atravessam o caminho de Gold antes que ele cumpra o prometido.[/COLOR][/B]</info>	
+</item>
+
  <item> 
 1   <title>[B][COLOR goldenrod] O Homem nas Trevas - [COLOR forestgreen]😎Pikachu😎 [COLOR forestgreen](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:4dd1926b4c6a366a39a5e6751c7628c39572be03&dn</link>
